@@ -27,6 +27,9 @@ A curated list of resources for Buddhism
 ## 佛書 Books
 
 - [多杰羌佛第三世正法寶典 H.H Dorje Chang Buddha III A Treasury Of True Buddha-Dharma](https://www.sunmoonlight.org/book.htm) | [Google Books](https://www.google.com.my/books/edition/%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E7%AC%AC%E4%B8%89%E4%B8%96%E6%AD%A3%E6%B3%95%E5%AF%B6%E5%85%B8_H_H_Do/ScP1DwAAQBAJ?gbpv=1)
+- [藉心經說真諦](https://www.google.com.my/books/edition/%E8%97%89%E5%BF%83%E7%BB%8F%E8%AF%B4%E7%9C%9F%E8%B0%9B_%E7%AE%80%E4%BD%93%E7%89%88/xNAvEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%EF%BC%88H.H.+DORJE+CHANG+BUDDHA+III%EF%BC%89%22&printsec=frontcover)
+- [般若波羅密多心經講義](https://www.google.com.my/books/edition/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E5%AF%86%E5%A4%9A%E5%BF%83%E7%B6%93%E8%AC%9B%E7%BE%A9/bxP0DwAAQBAJ?hl=en&gbpv=1)
+- [第三世多杰羌佛說：世法哲言](https://ibodhi.org/%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e8%af%b4%e3%80%8a%e4%b8%96%e6%b3%95%e5%93%b2%e8%a8%80%e3%80%8b/) ([Google Books](https://www.google.com.my/books/edition/%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E8%AA%AA_%E4%B8%96%E6%B3%95%E5%93%B2%E8%A8%80/bxT0DwAAQBAJ?hl=en&gbpv=1)) | [Philosophical Sayings About Worldly Matters](https://sunmoonlight.org/book_72dpi/14-p346-357.pdf)
 - [聖德高僧們的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
 
 ## 南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
@@ -91,6 +94,10 @@ A curated list of resources for Buddhism
 - [總部公告 第 20170102 號](https://www.wbahq.org/ch/hq-announcements/a20170102/) | [Announcement 20170102](https://www.wbahq.org/hq-announcements/a20170102/)
 - [總部公告 第 20170101 號-聖考結果公佈](https://www.wbahq.org/ch/hq-announcements/a20170101/) | [Announcement 20170101: The Result From The Holy Test Is Published](https://www.wbahq.org/hq-announcements/a20170101/)
 - [佛教總部 特別公告 望大家看到以下公告，互相傳遞功德無量](https://www.wbahq.org/ch/hq-announcements/a20161211sp/) | [Special Announcement: We hope you forward this special announcement to each other. You will earn boundless merits](https://www.wbahq.org/hq-announcements/spa20161211/)
+- [總部公告 第 20160114 號-不看公告的報應](https://www.wbahq.org/ch/hq-announcements/a20160114/) | [Announcement 20160114: The retribution from not reading the public announcements](https://www.wbahq.org/hq-announcements/a20160114/)
+- [總部公告 第 20160113 號](https://www.wbahq.org/ch/hq-announcements/a20160113/) | [Announcement 20160113
+  ](https://www.wbahq.org/hq-announcements/a20160113/)
+- [總部公告 第 20160112 號- 只有聖考才能得出真相](https://www.wbahq.org/ch/hq-announcements/a20160112/) | [Announcement 20160112: Only the holy test can turn up the truth](https://www.wbahq.org/hq-announcements/a20160112/)
 
 ## 鏈接 Link
 
