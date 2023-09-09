@@ -12,10 +12,8 @@ A curated list of resources for Buddhism
 - [佛书 Books](#佛书-books)
 - [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
 - [公告 Announcements](#公告-announcements)
-
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教总部 World Buddhism Association Headquarters](#世界佛教总部-world-buddhism-association-headquarters)
-
 - [链接 Link](#链接-link)
 
 ## 介绍 Introduction
