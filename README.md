@@ -8,10 +8,9 @@ A curated list of resources for Buddhism
 
 `中文 ｜ English version`
 
-- [Awesome Buddhism](#awesome-buddhism)
-  - [介绍 Introduction](#介绍-introduction)
-  - [佛书 Books](#佛书-books)
-  - [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
+- [介绍 Introduction](#介绍-introduction)
+- [佛书 Books](#佛书-books)
+- [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
 
 ## 介绍 Introduction
 
@@ -37,4 +36,4 @@ A curated list of resources for Buddhism
 - [南无羌佛应释迦族子孙、佛教大学系主任因缘说法](https://www.hhdcb3office.org/html/information/05012021.html)
 - [这才是确保佛教徒成就的真正的无敌金刚法](https://www.hhdcb3office.org/html/information/02182021.html)
 - [圣者不是自己和弟子说了算的，符合考核印证，不是圣者也是圣者；空洞佛学理论与真正的佛法是不同的领域](https://www.hhdcb3office.org/html/information/01192021.html)
-- [新年說法：我身口意都符合真修行嗎？能成就解脫還是遭惡業苦果？](https://www.hhdcb3office.org/html/information/01012021.html)
+- [新年说法：我身口意都符合真修行吗？能成就解脱还是遭恶业苦果？](https://www.hhdcb3office.org/html/information/01012021.html)
