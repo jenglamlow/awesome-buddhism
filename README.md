@@ -10,6 +10,8 @@ A curated list of resources for Buddhism
 
 - [Awesome Buddhism](#awesome-buddhism)
   - [介绍 Introduction](#介绍-introduction)
+  - [佛书 Books](#佛书-books)
+  - [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
 
 ## 介绍 Introduction
 
@@ -18,3 +20,11 @@ A curated list of resources for Buddhism
 - [南無第三世多杰羌佛的五明成就介紹](https://www.wbahq.org/ch/fv/) | [H.H. Dorje Chang Buddha III’s
   Achievements In Five Vidyas](https://www.wbahq.org/fv/)
 - [多杰羌佛降世皈依境](https://www.wbahq.org/ch/%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e9%99%8d%e4%b8%96%e7%9a%88%e4%be%9d%e5%a2%83/) | [Dorje Chang Buddha Lineage Refuge Tree](https://www.wbahq.org/dorje-chang-buddha-lineage-refuge-tree/)
+
+## 佛书 Books
+
+- [多杰羌佛第三世正法宝典 H.H Dorje Chang Buddha III A Treasury Of True Buddha-Dharma](https://www.sunmoonlight.org/book.htm) | [Google Books](https://www.google.com.my/books/edition/%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E7%AC%AC%E4%B8%89%E4%B8%96%E6%AD%A3%E6%B3%95%E5%AF%B6%E5%85%B8_H_H_Do/ScP1DwAAQBAJ?gbpv=1)
+
+## 南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
+
+- [学佛 Learning From Buddha](https://www.hhdcb3office.org/html/information/learningfrombuddha.html) | PDF - [中文](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionCH.pdf) | [English](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionEN.pdf)
