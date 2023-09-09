@@ -6,6 +6,8 @@ A curated list of resources for Buddhism
 
 如来正法佛教相关资料
 
+`中文 ｜ English version`
+
 - [Awesome Buddhism](#awesome-buddhism)
   - [介绍 Introduction](#介绍-introduction)
 
