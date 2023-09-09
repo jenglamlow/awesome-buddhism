@@ -27,4 +27,7 @@ A curated list of resources for Buddhism
 
 ## 南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
 
-- [学佛 Learning From Buddha](https://www.hhdcb3office.org/html/information/learningfrombuddha.html) | PDF - [中文](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionCH.pdf) | [English](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionEN.pdf)
+- [学佛 Learning From Buddha](https://www.hhdcb3office.org/html/information/learningfrombuddha.html) (PDF - [中文](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionCH.pdf) | [English](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionEN.pdf))
+  - 这本《学佛》一书是南无第三世多杰羌佛在佛州迈阿密为随行弟子们当众所说的法，也是所有佛弟子要成就解脱所必需学习、必需要施行的最重要的法宝，说法间，一匹硕大无比的西洋菩提树的叶子当众从空而降，更为此法宝增添了一桩圣迹公案。
+  - This book, Learning from Buddha, is a Dharma that H.H. Dorje Chang Buddha III openly imparted in Miami, Florida for disciples who accompanied Him on that trip. It is also a most important Dharma treasure that all Buddhist disciples must study and put into practice in order to attain accomplishment and liberation. When this Dharma was being imparted, a gigantic leaf of a Western bodhi tree fell from the air in front of all who were there. That occurrence added a holy miracle to this Dharma treasure.
+- [南无第三世多杰羌佛传修行法](https://www.wbahq.org/ch/dharma-discourses/sf-cultivation/) | [The Dharma Of Cultivation](https://www.wbahq.org/dharma-discourses/dharma-of-cultivation/) ([PDF](http://www.wbahq.org/wp-content/uploads/2020/10/What_is_Cultivation_20201014.pdf)) - 什么是修行？What is Cultivation?
