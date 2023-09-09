@@ -14,6 +14,7 @@ A curated list of resources for Buddhism
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
+- [大成就者 Great Achievers](#大成就者-great-achievers)
 - [鏈接 Link](#鏈接-link)
 
 ## 介紹 Introduction
@@ -98,6 +99,23 @@ A curated list of resources for Buddhism
 - [總部公告 第 20160113 號](https://www.wbahq.org/ch/hq-announcements/a20160113/) | [Announcement 20160113
   ](https://www.wbahq.org/hq-announcements/a20160113/)
 - [總部公告 第 20160112 號- 只有聖考才能得出真相](https://www.wbahq.org/ch/hq-announcements/a20160112/) | [Announcement 20160112: Only the holy test can turn up the truth](https://www.wbahq.org/hq-announcements/a20160112/)
+
+## 大成就者 Great Achievers
+
+- [因海聖尊](https://www.wbahq.org/ch/portfolio/yinhai/) | [Holy Monk Yinhai Shengzun](https://www.wbahq.org/portfolio/yinhai/)
+- [H.E. 唐東迦波菩薩](https://www.wbahq.org/ch/portfolio/tangtonggyalpo/) | [Tangtong Gyalpo Bodhisattva](https://www.wbahq.org/portfolio/ttg/)
+- [卻吉降養清真尊者](https://www.wbahq.org/ch/portfolio/queji-jiangyang-qingzhen/) | [H.E. Queji Jiangyang Qingzhen](https://www.wbahq.org/portfolio/queji-jiangyang-qingzhen/)
+- [果章法師](https://www.wbahq.org/ch/portfolio/guozhang/) | [Venerable Dharma Teacher Guozhang](https://www.wbahq.org/portfolio/guozhang/)
+- [普觀大和尚](https://www.wbahq.org/ch/portfolio/puguan/) | [Dharma Master Puguan](https://www.wbahq.org/portfolio/puguan/)
+- [意昭法師](https://www.wbahq.org/ch/portfolio/%e6%84%8f%e6%98%ad%e6%b3%95%e5%b8%ab/) | [Dharma Master Yizhao](https://www.wbahq.org/portfolio/venerable-dharma-teacher-yizhao/)
+- [通慧大和尚](https://www.wbahq.org/ch/portfolio/tonghui-2/) | [Dharma Master Tonghui](https://www.wbahq.org/portfolio/tonghui/)
+- [清定法師](https://www.wbahq.org/ch/portfolio/%e6%b8%85%e5%ae%9a%e6%b3%95%e5%b8%ab/) | [Dharma Master Qingding](https://www.wbahq.org/portfolio/qingding/)
+- [開初教尊](https://www.wbahq.org/ch/portfolio/kaichu-2/) | [Kaichu Jiaozun](https://www.wbahq.org/portfolio/kaichu/)
+- [祿東贊法王](https://www.wbahq.org/ch/portfolio/%e7%a5%bf%e6%9d%b1%e8%b4%8a%e6%b3%95%e7%8e%8b/) | [Dharma King Gar Tongstan IV](https://www.wbahq.org/portfolio/gar-tunstan/)
+- [悟明長老](https://www.wbahq.org/ch/portfolio/%e6%82%9f%e6%98%8e%e9%95%b7%e8%80%81/) | [Dharma Master Wuming](https://www.wbahq.org/portfolio/wuming/)
+- [永定法師](https://www.wbahq.org/ch/portfolio/yongding-2/) | [Dharma Master Yongding](https://www.wbahq.org/portfolio/yongding/)
+- [佛弟子趙玉勝居士](https://www.wbahq.org/ch/portfolio/%e8%b6%99%e7%8e%89%e5%8b%9d%e5%b1%85%e5%a3%ab/) | [Buddhist disciple Zhao Yusheng](https://www.wbahq.org/portfolio/zhaoyusheng/)
+- [王靈澤居士、王程娥芬居士](https://www.wbahq.org/ch/portfolio/%e7%8e%8b%e9%9d%88%e6%be%a4/) | [Layman Wang Ling-Ze and Laywoman Wang Cheng E-Feng](https://www.wbahq.org/portfolio/layman-wang/)
 
 ## 鏈接 Link
 
