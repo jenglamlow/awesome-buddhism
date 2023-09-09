@@ -53,6 +53,25 @@ A curated list of resources for Buddhism
 - [2022 年 6 月 11、12 日「恭迎南無第三世多杰羌佛佛誕」法會上翟芒尊者及證達教尊的講話](https://www.wbahq.org/ch/hq-announcements/hmt-20220614/) | [Speeches Delivered by Venerable Tsemang and Jiaozun Zhengda
   ](https://www.wbahq.org/hq-announcements/hmt-20220614/)
 - [總部公告 2022 年 4 月 3 日 – 對蔡鎮鎂、楊慧君等人行為不端的處理決定](https://www.wbahq.org/ch/hq-announcements/a2022-04-03/) | [Deliberation on the Misconducts of Yang Hui Jun and Cai Zhen Mei](https://www.wbahq.org/hq-announcements/hqa20220403/)
+- [總部公告 第 20210103 號 佛說八萬四千法門之無上頂首大法](https://www.wbahq.org/ch/hq-announcements/a20210103/) | [The Unsurpassed and Supreme Buddha Dharmas Among the Eighty-Four Thousand Dharma-Gates](https://www.wbahq.org/hq-announcements/a20210103/)
+- [總部公告 第 20210102 號](https://www.wbahq.org/ch/hq-announcements/a20210102/) | [Headquarters Announcement 20210102](https://www.wbahq.org/hq-announcements/hqa20210102/)
+- [總部公告 第 20210101 號-不是真正的聖者，不敢修十八法！](https://www.wbahq.org/ch/hq-announcements/a20210101/) | [HQ Announcement 20210101: An Impostor Will Not Dare To Practice These Eighteen Dharmas](https://www.wbahq.org/hq-announcements/a20210101/)
+- [總部公告第 20200107 號](https://www.wbahq.org/ch/hq-announcements/a20200107/) | [HQ Announcement 20200107: Regarding Two Serious Issues](https://www.wbahq.org/hq-announcements/a20200107/)
+- [總部公告 第 20200106 號 邪惡令人髮指](https://www.wbahq.org/ch/hq-announcements/a20200106/) | [HQ Announcement No. 20200106: It Is Brazen and Outrageous Evil](https://www.wbahq.org/hq-announcements/a20200106/)
+- [總部公告 第 20200105 號 勝義“金瓶掣籤”法規](https://www.wbahq.org/ch/hq-announcements/a20200105/)
+- [總部公告 第 20200104 號 勝義“金瓶掣籤”緣起](https://www.wbahq.org/ch/hq-announcements/a20200104/)
+- [總部公告 第 20200103 號 學的不是本尊認可的經書法本，難以成就](https://www.wbahq.org/ch/hq-announcements/a20200103/)
+- [總部公告 第 20200102 號 正確的共修 —共修不可走題涉偏鋒](https://www.wbahq.org/ch/hq-announcements/a20200101/) | [HQ Announcement 20200102: Correct Group Study –A Group Study Shall Not Deviate from The Topics](https://www.wbahq.org/hq-announcements/a20200102/)
+- [總部公告 第 20200101 號 正確答案，回覆重要諮詢](https://www.wbahq.org/ch/hq-announcements/a20200101-2/) | [HQ Announcement 20200101: Correct Reply to an Important Inquiry](https://www.wbahq.org/hq-announcements/a20200101/)
+- [總部發文：木雅迥扎解釋揭發材料的聲明](https://www.wbahq.org/ch/hq-announcements/a-fw20191206/)
+- [總部公告字第 20190106 號-男性學法之人體質、體力健康的鑒定](https://www.wbahq.org/ch/hq-announcements/hqa20190106/) | [HQ Announcement No. 20190106:Determining the Physical Conditions, Strengths, and Health of Male Practitioners of Buddha Dharma](https://www.wbahq.org/hq-announcements/a20190106/)
+- [總部公告字第 20190105 號：世界佛教總部重要嚴肅公告](https://www.wbahq.org/ch/hq-announcements/a20190105/) | [Announcement 20190105: An Important and Solemn Announcement by the Headquarters](https://www.wbahq.org/hq-announcements/a20190105/)
+- [總部公告字第 20190104 號-關於聖天湖的水、石、沙子](https://www.wbahq.org/ch/hq-announcements/a20190104/) | [Announcement No. 20190104: Regarding the Water, Rocks, and Sand from the Holy Heavenly Lake](https://www.wbahq.org/hq-announcements/a20190104/)
+- [世界佛教總部聲明-今日美國報 2019-04-05](https://www.wbahq.org/ch/hq-announcements/stmt-hq-20190405/) | [A Statement by WBAH, Published on USA Today and the Washington Times](https://www.wbahq.org/hq-announcements/stmt-hq-20190405/)
+- [總部公告 第 20190103 號](https://www.wbahq.org/ch/hq-announcements/a20190103/) | [Announcement No. 20190103](https://www.wbahq.org/hq-announcements/a20190103/)
+- [總部公告 第 20190102 號 巨大聖蹟昨天在將建立的佛教城聖天湖上展示](https://www.wbahq.org/ch/hq-announcements/a20190102/) | [Announcement No. 20190102: A Tremendously Holy Feat Manifested Yesterday at the Holy Heavenly Lake Where the Buddhist City Will Be Established](https://www.wbahq.org/hq-announcements/a20190102/)
+- [世界佛教總部聲明-華盛頓時報 2019-01-28](https://www.wbahq.org/ch/hq-announcements/stmt-hq-20190128/) | [A Statement by WBAH, Published on Washington Times](https://www.wbahq.org/hq-announcements/stmt-hq-20190129/)
+- [總部公告 第 20190101 號 金剛乘弟子代表被擇決者們的提問](https://www.wbahq.org/ch/hq-announcements/a20190101/) | [Announcement No. 20190101: A Vajrayana disciple asks on behalf of those being put to Zejue](https://www.wbahq.org/hq-announcements/a20190101/)
 
 ## 鏈接 Link
 
