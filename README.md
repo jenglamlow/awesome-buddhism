@@ -11,6 +11,9 @@ A curated list of resources for Buddhism
 - [介绍 Introduction](#介绍-introduction)
 - [佛书 Books](#佛书-books)
 - [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
+- [公告 Announcements](#公告-announcements)
+  - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
+- [链接 Link](#链接-link)
 
 ## 介绍 Introduction
 
@@ -23,6 +26,7 @@ A curated list of resources for Buddhism
 ## 佛书 Books
 
 - [多杰羌佛第三世正法宝典 H.H Dorje Chang Buddha III A Treasury Of True Buddha-Dharma](https://www.sunmoonlight.org/book.htm) | [Google Books](https://www.google.com.my/books/edition/%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E7%AC%AC%E4%B8%89%E4%B8%96%E6%AD%A3%E6%B3%95%E5%AF%B6%E5%85%B8_H_H_Do/ScP1DwAAQBAJ?gbpv=1)
+- [圣德高僧们的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
 
 ## 南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
 
@@ -37,3 +41,17 @@ A curated list of resources for Buddhism
 - [这才是确保佛教徒成就的真正的无敌金刚法](https://www.hhdcb3office.org/html/information/02182021.html)
 - [圣者不是自己和弟子说了算的，符合考核印证，不是圣者也是圣者；空洞佛学理论与真正的佛法是不同的领域](https://www.hhdcb3office.org/html/information/01192021.html)
 - [新年说法：我身口意都符合真修行吗？能成就解脱还是遭恶业苦果？](https://www.hhdcb3office.org/html/information/01012021.html)
+
+## 公告 Announcements
+
+### 第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III
+
+## 链接 Link
+
+- [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](https://www.hhdcb3office.org/)
+- [世界佛教总部 World Buddhism Association Headquarters](https://www.wbahq.org/)
+- [国际佛教僧尼总会 International Buddhism Sangha Association (IBSA)](https://ibsahq.org/)
+- [佛教闻法中心 Buddhism Dharma Discourse Listening Center (BDDLC)](https://www.bddlc.org)
+- [佛教大願菩提金剛正法中心 Tayuan Puti Chinkang Dhamma Center (TPCDCT)](https://www.tpcdct.org/)
+- [Xuanfa Institute](https://xuanfa.net/)
+- [Zhaxi Zhuoma](https://www.zhaxizhuoma.org/)
