@@ -12,7 +12,10 @@ A curated list of resources for Buddhism
 - [佛书 Books](#佛书-books)
 - [南无第三世多杰羌佛说法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南无第三世多杰羌佛说法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
 - [公告 Announcements](#公告-announcements)
+
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
+  - [世界佛教总部 World Buddhism Association Headquarters](#世界佛教总部-world-buddhism-association-headquarters)
+
 - [链接 Link](#链接-link)
 
 ## 介绍 Introduction
@@ -45,6 +48,10 @@ A curated list of resources for Buddhism
 ## 公告 Announcements
 
 ### 第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III
+
+### 世界佛教总部 World Buddhism Association Headquarters
+
+- [2023 年「恭迎南無第三世多杰羌佛佛誕及《南無第三世多杰羌佛經藏總集》」法會上翟芒尊者及證達教尊的講話内容](https://www.wbahq.org/ch/hq-announcements/202306300701-speech/) | [The speeches by Venerable Tsemang and Jiaozun Zhengda at the Dharma Assembly to Celebrate the Holy Birthday of Namo Dorje Chang Buddha III in 2023](https://www.wbahq.org/hq-announcements/hqa-2023-07/)
 
 ## 链接 Link
 
