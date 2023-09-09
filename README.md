@@ -14,7 +14,7 @@ A curated list of resources for Buddhism
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
-- [大成就者 Great Achievers](#大成就者-great-achievers)
+- [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Link](#鏈接-link)
 
 ## 介紹 Introduction
@@ -100,7 +100,7 @@ A curated list of resources for Buddhism
   ](https://www.wbahq.org/hq-announcements/a20160113/)
 - [總部公告 第 20160112 號- 只有聖考才能得出真相](https://www.wbahq.org/ch/hq-announcements/a20160112/) | [Announcement 20160112: Only the holy test can turn up the truth](https://www.wbahq.org/hq-announcements/a20160112/)
 
-## 大成就者 Great Achievers
+## 大成就者 The Great Achievers
 
 - [因海聖尊](https://www.wbahq.org/ch/portfolio/yinhai/) | [Holy Monk Yinhai Shengzun](https://www.wbahq.org/portfolio/yinhai/)
   - :cinema: [死後能復活、圓寂顯神變 因海和尚 5 天燒不化奇蹟《57 爆新聞》精選篇 網路獨播版](https://www.youtube.com/watch?v=zMnbuWiM4OA)
