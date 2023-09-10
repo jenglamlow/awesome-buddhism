@@ -14,6 +14,7 @@ A curated list of resources for Buddhism
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
+  - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Link](#鏈接-link)
 
@@ -131,6 +132,14 @@ A curated list of resources for Buddhism
 - [總部公告 第 20150101 號](https://www.wbahq.org/ch/hq-announcements/a20150101/) | [Announcement 20150101](https://www.wbahq.org/hq-announcements/a20150101/)
 - [總部公告 第 20140101 號](https://www.wbahq.org/ch/hq-announcements/a20140101/)
 - [總部公告 2013-02-25](https://www.wbahq.org/ch/hq-announcements/a20130225/)
+
+### 聖蹟寺 Holy Miracle Temple
+
+- [2022 年 恭迎 南無第三世多杰羌佛佛誕法會視頻](https://www.wbahq.org/ch/sjs-a/2022%e5%b9%b4-%e6%81%ad%e8%bf%8e-%e5%8d%97%e7%84%a1%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e4%bd%9b%e8%aa%95%e6%b3%95%e6%9c%83%e8%a6%96%e9%a0%bb/)
+- [世界大力士祖父旺扎上尊回律師問](https://www.wbahq.org/ch/sjs-a/video20210221/) | [Wangzha Shangzun, “Grandfather” of Strongman, Replies to Attorney’s Questions](https://www.wbahq.org/holy-miracle-temple-announcements/video20210221/)
+- [聖蹟寺光明祈福燈](https://www.wbahq.org/ch/sjs-a/hmt-a20190417/) | [Lighting Blessing Lamps at the Holy Miracles Temple](https://www.wbahq.org/holy-miracle-temple-announcements/a20190417/)
+- [聖蹟寺僧眾對佛弟子們致歉](https://www.wbahq.org/ch/sjs-a/%e8%81%96%e8%b9%9f%e5%af%ba%e5%83%a7%e7%9c%be%e5%b0%8d%e4%bd%9b%e5%bc%9f%e5%ad%90%e5%80%91%e8%87%b4%e6%ad%89/)
+- [聖蹟寺公告第 20180101 號](https://www.wbahq.org/ch/sjs-a/shjs20180101/)
 
 ## 大成就者 The Great Achievers
 
