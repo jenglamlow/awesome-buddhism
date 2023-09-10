@@ -15,6 +15,8 @@ A curated list of resources for Buddhism
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
+    - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
+    - [回覆諮詢 Replies](#回覆諮詢-replies)
   - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Link](#鏈接-link)
@@ -58,6 +60,8 @@ A curated list of resources for Buddhism
 ### 第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III
 
 ### 世界佛教總部 World Buddhism Association Headquarters
+
+#### 總部公告 Headquarters Announcements
 
 - [2023 年「恭迎南無第三世多杰羌佛佛誕及《南無第三世多杰羌佛經藏總集》」法會上翟芒尊者及證達教尊的講話内容](https://www.wbahq.org/ch/hq-announcements/202306300701-speech/) | [The speeches by Venerable Tsemang and Jiaozun Zhengda at the Dharma Assembly to Celebrate the Holy Birthday of Namo Dorje Chang Buddha III in 2023](https://www.wbahq.org/hq-announcements/hqa-2023-07/)
 - [2022 年 6 月 11、12 日「恭迎南無第三世多杰羌佛佛誕」法會上翟芒尊者及證達教尊的講話](https://www.wbahq.org/ch/hq-announcements/hmt-20220614/) | [Speeches Delivered by Venerable Tsemang and Jiaozun Zhengda
@@ -137,6 +141,33 @@ A curated list of resources for Buddhism
 - [總部公告 第 20150101 號](https://www.wbahq.org/ch/hq-announcements/a20150101/) | [Announcement 20150101](https://www.wbahq.org/hq-announcements/a20150101/)
 - [總部公告 第 20140101 號](https://www.wbahq.org/ch/hq-announcements/a20140101/)
 - [總部公告 2013-02-25](https://www.wbahq.org/ch/hq-announcements/a20130225/)
+
+#### 回覆諮詢 Replies
+
+- [回覆諮詢 第 20210103 號](https://www.wbahq.org/ch/replies/r20210103/) | [Reply to Inquiry No.20210103](https://www.wbahq.org/hq-announcements/r20210103/)
+- [回覆諮詢 第 20210102 號](https://www.wbahq.org/ch/replies/r2021012/) | [Reply to Inquiry 20210102](https://www.wbahq.org/hq-announcements/r20210102/)
+- [回覆諮詢 第 20210101 號](https://www.wbahq.org/ch/replies/r20210101/) | [Replying to Inquiry #20210101](https://www.wbahq.org/hq-announcements/r20210101/)
+- [回覆諮詢 第 20200104 號 （正確版）- 勝義馬頭明王水壇大法](https://www.wbahq.org/ch/replies/r20200104/)
+- [回覆諮詢 第 20200103 號](https://www.wbahq.org/ch/replies/r20200103/)
+- [回覆諮詢 第 20200102 號](https://www.wbahq.org/ch/replies/r20200102/)
+- [回覆諮詢 第 20200101 號](https://www.wbahq.org/ch/replies/r20200101/)
+- [回覆諮詢 第 20190101 號](https://www.wbahq.org/ch/replies/r20190101/) | [Reply to Inquiries No. 20190101](https://www.wbahq.org/replies/r20190101/)
+- [回覆諮詢 第 20180109 號](https://www.wbahq.org/ch/replies/r20180109/) | [Reply to Inquiries No. 20180109](https://www.wbahq.org/replies/r20180109/)
+- [回覆諮詢 第 20180108 號](https://www.wbahq.org/ch/replies/r20180108/) | [Reply to Inquiries No. 20180108](https://www.wbahq.org/replies/r20180108/)
+- [回覆諮詢 第 20180107 號](https://www.wbahq.org/ch/replies/r20180107/) | [Reply to Inquiries No. 20180107: Status of An Unnamed Master](https://www.wbahq.org/replies/r20180107/)
+- [回覆諮詢 第 20180106 號](https://www.wbahq.org/ch/replies/r20180106/) | [Reply to Inquiries No. 20180106](https://www.wbahq.org/replies/r0180106/)
+- [回覆諮詢 第 20180105 號](https://www.wbahq.org/ch/replies/r20180105/) | [Reply to Inquiries No. 20180105](https://www.wbahq.org/replies/r20180105/)
+- [回覆諮詢 第 20180104 號](https://www.wbahq.org/ch/replies/r20180104/) | [Reply to Inquiries No. 20180104](https://www.wbahq.org/replies/r20180104/)
+- [回覆諮詢 第 20180103 號](https://www.wbahq.org/ch/replies/r20180103/) | [Reply to Inquiries No. 20180103](https://www.wbahq.org/replies/r20180103/)
+- [回覆諮詢 第 20180102 號](https://www.wbahq.org/ch/replies/r20180102/) | [Reply to Inquiries No. 20180102](https://www.wbahq.org/replies/r20180102/)
+- [回覆諮詢 第 20180101 號](https://www.wbahq.org/ch/replies/r20180101/) | [Reply to Inquiries No. 20180101](https://www.wbahq.org/replies/r20180101/)
+- [回覆諮詢 第 20170102 號](https://www.wbahq.org/ch/replies/r20170102/)
+- [回覆諮詢 第 20170101 號](https://www.wbahq.org/ch/replies/r20170101/)
+- [回覆諮詢 第 20160102 號](https://www.wbahq.org/ch/replies/r20160102/) | [Reply to Inquiries No. 20160102](https://www.wbahq.org/hq-announcements/r20160102/)
+- [回覆諮詢 第 20160101 號](https://www.wbahq.org/ch/replies/r20160101/) | [Reply to Inquiries No. 20160101](https://www.wbahq.org/hq-announcements/r20160101/)
+- [回覆諮詢 (總部公告字第 20150113 號)](https://www.wbahq.org/ch/hq-announcements/r20150113/) | [Announcement 20150113: Reply to Inquiry](https://www.wbahq.org/hq-announcements/a20150113/)
+- [回覆諮詢 第 20141201 號](https://www.wbahq.org/ch/replies/r20141201/)
+- [對諮詢的回覆 2012 年 11 月 18 日](https://www.wbahq.org/ch/replies/r20121118/)
 
 ### 聖蹟寺 Holy Miracle Temple
 
