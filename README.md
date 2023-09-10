@@ -11,6 +11,7 @@ A curated list of resources for Buddhism
 - [介紹 Introduction](#介紹-introduction)
 - [佛書 Books](#佛書-books)
 - [南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南無第三世多杰羌佛說法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
+- [南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha](#南無釋迦牟尼佛所傳佛法-buddha-dharma-of-shakyamuni-buddha)
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
@@ -47,6 +48,10 @@ A curated list of resources for Buddhism
 - [這才是確保佛教徒成就的真正的無敵金剛法](https://www.hhdcb3office.org/html/information/02182021.html)
 - [聖者不是自己和弟子說了算的，符合考核印證，不是聖者也是聖者；空洞佛學理論與真正的佛法是不同的領域](https://www.hhdcb3office.org/html/information/01192021.html)
 - [新年說法：我身口意都符合真修行嗎？能成就解脫還是遭惡業苦果？](https://www.hhdcb3office.org/html/information/01012021.html)
+
+## 南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha
+
+- [釋迦牟尼佛傳《了義佛旨》](https://www.wbahq.org/ch/sjmnb/liaoyifozhi/) | [Definitive Tenets Imparted by Buddha](https://www.wbahq.org/skmnbd/definitive-tenets-imparted-by-buddha/)
 
 ## 公告 Announcements
 
