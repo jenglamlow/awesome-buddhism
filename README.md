@@ -16,6 +16,7 @@ A curated list of resources for Buddhism
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
     - [第三世多杰羌佛辦公室公告 Announcements](#第三世多杰羌佛辦公室公告-announcements)
     - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
+    - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
@@ -150,6 +151,10 @@ A curated list of resources for Buddhism
 - [第三號說明 (02/12/2009)](https://www.hhdcb3office.org/html/information/statement_no3_2009_02_12.html)
 - [第二號說明 (01/18/2009)](https://www.hhdcb3office.org/html/information/statement_no2_2009_01_18.html)
 - [第一號說明 (01/13/2009)](https://www.hhdcb3office.org/html/information/statement_no1_2009_01_13.html)
+
+#### 第三世多杰羌佛辦公室通知 Notices
+
+- [第 201201 號 (06/16/2012)](https://www.hhdcb3office.org/html/information/notice_no1_2012_06_16.html)
 
 ### 世界佛教總部 World Buddhism Association Headquarters
 
