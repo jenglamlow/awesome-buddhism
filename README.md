@@ -15,6 +15,7 @@ A curated list of resources for Buddhism
 - [公告 Announcements](#公告-announcements)
   - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
     - [第三世多杰羌佛辦公室公告 Announcements](#第三世多杰羌佛辦公室公告-announcements)
+    - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
@@ -127,6 +128,28 @@ A curated list of resources for Buddhism
 - [第三號公告 (05/29/2009)](https://www.hhdcb3office.org/html/information/announcement_no3_2009_05_29.html)
 - [第二號公告 (09/28/2008)](https://www.hhdcb3office.org/html/information/announcement_no2_2008_09_28.html)
 - [第一號公告 (07/20/2008)](https://www.hhdcb3office.org/html/information/announcement_no1_2008_07_20.html)
+
+#### 第三世多杰羌佛辦公室說明 Statements
+
+- [第十九號說明 (12/30/2019)](https://www.hhdcb3office.org/html/information/statement_no19_2019_12_30.html)
+- [第十八號說明 (09/15/2019)](https://www.hhdcb3office.org/html/information/statement_no18_2019_09_15.html)
+- [第十七號說明 (08/05/2014)](https://www.hhdcb3office.org/html/information/statement_no17_2014_08_05.html)
+- [第十六號說明 (08/03/2014)](https://www.hhdcb3office.org/html/information/statement_no16_2014_08_03.html)
+- [第十五號說明 (01/02/2014)](https://www.hhdcb3office.org/html/information/statement_no15_2014_01_02.html)
+- [第十四號說明 (01/02/2014)](https://www.hhdcb3office.org/html/information/statement_no14_2014_01_02.html)
+- [第十三號說明 (12/28/2013)](https://www.hhdcb3office.org/html/information/statement_no13_2013_12_28.html)
+- [第十二號說明 (05/13/2012)](https://www.hhdcb3office.org/html/information/statement_no12_2012_05_13.html)
+- [第十一號說明 (05/11/2012)](https://www.hhdcb3office.org/html/information/statement_no11_2012_05_11.html)
+- [第十號說明 (08/15/2011)](https://www.hhdcb3office.org/html/information/statement_no10_2011_08_15.html)
+- [第九號說明 (06/16/2010)](https://www.hhdcb3office.org/html/information/statement_no9_2010_06_16.html)
+- [第八號說明 (05/25/2010)](https://www.hhdcb3office.org/html/information/statement_no8_2010_05_25.html)
+- [第七號說明 (03/01/2010)](https://www.hhdcb3office.org/html/information/statement_no7_2010_03_01.html)
+- [第六號說明 (10/01/2009)](https://www.hhdcb3office.org/html/information/statement_no6_2009_10_01.html)
+- [第五號說明 (08/23/2009)](https://www.hhdcb3office.org/html/information/statement_no5_2009_08_23.html)
+- [第四號說明 (08/10/2009)](https://www.hhdcb3office.org/html/information/statement_no4_2009_08_10.html)
+- [第三號說明 (02/12/2009)](https://www.hhdcb3office.org/html/information/statement_no3_2009_02_12.html)
+- [第二號說明 (01/18/2009)](https://www.hhdcb3office.org/html/information/statement_no2_2009_01_18.html)
+- [第一號說明 (01/13/2009)](https://www.hhdcb3office.org/html/information/statement_no1_2009_01_13.html)
 
 ### 世界佛教總部 World Buddhism Association Headquarters
 
