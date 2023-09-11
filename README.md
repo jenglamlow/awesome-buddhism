@@ -18,7 +18,7 @@ A curated list of resources for Buddhism
     - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
     - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
     - [第三世多杰羌佛辦公室來函印證 Validations](#第三世多杰羌佛辦公室來函印證-validations)
-    - [第三世多杰羌佛辦公室綜合 Comprehensiveness](#第三世多杰羌佛辦公室綜合-comprehensivenes)
+    - [第三世多杰羌佛辦公室綜合 Comprehensiveness](#第三世多杰羌佛辦公室綜合-comprehensiveness)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
