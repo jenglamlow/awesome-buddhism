@@ -18,6 +18,7 @@ A curated list of resources for Buddhism
     - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
     - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
     - [第三世多杰羌佛辦公室來函印證 Validations](#第三世多杰羌佛辦公室來函印證-validations)
+    - [第三世多杰羌佛辦公室綜合 Comprehensiveness](#第三世多杰羌佛辦公室綜合-comprehensivenes)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
@@ -174,6 +175,10 @@ A curated list of resources for Buddhism
 - [第三號來函印證(12/20/2013)](https://www.hhdcb3office.org/html/information/validation_no3_2013_12_20.html)
 - [第二號來函印證(12/19/2013)](https://www.hhdcb3office.org/html/information/validation_no2_2013_12_19.html)
 - [第一號來函印證(12/17/2013)](https://www.hhdcb3office.org/html/information/validation_no1_2013_12_17.html)
+
+#### 第三世多杰羌佛辦公室綜合 Comprehensiveness
+
+- [給售賣南無第三世多杰羌佛複製品畫的公司的一封公開信](https://www.hhdcb3office.org/html/information/comprehensiveness_2014_10_29.html)
 
 ### 世界佛教總部 World Buddhism Association Headquarters
 
