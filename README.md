@@ -17,6 +17,7 @@ A curated list of resources for Buddhism
     - [第三世多杰羌佛辦公室公告 Announcements](#第三世多杰羌佛辦公室公告-announcements)
     - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
     - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
+    - [第三世多杰羌佛辦公室來函印證 Validations](#第三世多杰羌佛辦公室來函印證-validations)
   - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
@@ -155,6 +156,24 @@ A curated list of resources for Buddhism
 #### 第三世多杰羌佛辦公室通知 Notices
 
 - [第 201201 號 (06/16/2012)](https://www.hhdcb3office.org/html/information/notice_no1_2012_06_16.html)
+
+#### 第三世多杰羌佛辦公室來函印證 Validations
+
+- [第十五號來函印證(07/02/2020)](https://www.hhdcb3office.org/html/information/validation_no15_2020_07_02.html)
+- [第十四號來函印證(01/28/2019)](https://www.hhdcb3office.org/html/information/validation_no14_2019_01_28.html)
+- [第十三號來函印證(12/16/2015)](https://www.hhdcb3office.org/html/information/validation_no13_2015_12_16.html)
+- [第十二號來函印證(10/13/2014)](https://www.hhdcb3office.org/html/information/validation_no12_2014_10_13.html)
+- [第十一號來函印證(08/17/2014)](https://www.hhdcb3office.org/html/information/validation_no11_2014_08_17.html)
+- [第十號來函印證(02/28/2014)](https://www.hhdcb3office.org/html/information/validation_no10_2014_02_28.html)
+- [第九號來函印證(01/18/2014)](https://www.hhdcb3office.org/html/information/validation_no9_2014_01_18.html)
+- [第八號來函印證(01/11/2014)](https://www.hhdcb3office.org/html/information/validation_no8_2014_01_11.html)
+- [第七號來函印證(12/31/2013)](https://www.hhdcb3office.org/html/information/validation_no7_2013_12_31.html)
+- [第六號來函印證(12/26/2013)](https://www.hhdcb3office.org/html/information/validation_no6_2013_12_26.html)
+- [第五號來函印證(12/22/2013)](https://www.hhdcb3office.org/html/information/validation_no5_2013_12_22.html)
+- [第四號來函印證(12/21/2013)](https://www.hhdcb3office.org/html/information/validation_no4_2013_12_21.html)
+- [第三號來函印證(12/20/2013)](https://www.hhdcb3office.org/html/information/validation_no3_2013_12_20.html)
+- [第二號來函印證(12/19/2013)](https://www.hhdcb3office.org/html/information/validation_no2_2013_12_19.html)
+- [第一號來函印證(12/17/2013)](https://www.hhdcb3office.org/html/information/validation_no1_2013_12_17.html)
 
 ### 世界佛教總部 World Buddhism Association Headquarters
 
