@@ -40,6 +40,7 @@ A curated list of resources for Buddhism
 - [藉心經說真諦](https://www.google.com.my/books/edition/%E8%97%89%E5%BF%83%E7%BB%8F%E8%AF%B4%E7%9C%9F%E8%B0%9B_%E7%AE%80%E4%BD%93%E7%89%88/xNAvEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%EF%BC%88H.H.+DORJE+CHANG+BUDDHA+III%EF%BC%89%22&printsec=frontcover)
 - [般若波羅密多心經講義](https://www.google.com.my/books/edition/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E5%AF%86%E5%A4%9A%E5%BF%83%E7%B6%93%E8%AC%9B%E7%BE%A9/bxP0DwAAQBAJ?hl=en&gbpv=1)
 - [第三世多杰羌佛說：世法哲言](https://ibodhi.org/%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e8%af%b4%e3%80%8a%e4%b8%96%e6%b3%95%e5%93%b2%e8%a8%80%e3%80%8b/) ([Google Books](https://www.google.com.my/books/edition/%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E8%AA%AA_%E4%B8%96%E6%B3%95%E5%93%B2%E8%A8%80/bxT0DwAAQBAJ?hl=en&gbpv=1)) | [Philosophical Sayings About Worldly Matters](https://sunmoonlight.org/book_72dpi/14-p346-357.pdf)
+- [《聖僧鐵記》](https://www.tpcdct.org/article/1543#detail) | [True Stories About A Holy Monk](https://xuanfa.net/bibliography/free-books-to-download/true-stories-about-a-holy-monk/)
 - [聖德高僧們的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
 
 ## 南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
@@ -69,8 +70,7 @@ A curated list of resources for Buddhism
 #### 第三世多杰羌佛辦公室公告 Announcements
 
 - [第六十三號公告 (02/09/2022)](https://www.hhdcb3office.org/html/information/announcement_no63_2022_02_09.html) | [Announcement No. 63 (02/09/2022)](https://www.hhdcb3office.org/html/information/announcement_no63_e_2022_02_09.html)
-- [第六十二號公告 (02/06/2022)](https://www.hhdcb3office.org/html/information/announcement_no62_2022_02_06.html) | [Announcement No. 62 (02/06/2022)
-  ](https://www.hhdcb3office.org/html/information/announcement_no62_e_2022_02_09.html)
+- [第六十二號公告 (02/06/2022)](https://www.hhdcb3office.org/html/information/announcement_no62_2022_02_06.html) | [Announcement No. 62 (02/06/2022)](https://www.hhdcb3office.org/html/information/announcement_no62_e_2022_02_09.html)
 - [第六十一號公告 (12/08/2021)](https://www.hhdcb3office.org/html/information/announcement_no61_2021_12_08.html)
 - [第六十號公告 (06/17/2021)](https://www.hhdcb3office.org/html/information/announcement_no60_2021_06_17.html)
 - [第五十九號公告 (11/23/2020)](https://www.hhdcb3office.org/html/information/announcement_no59_2020_11_23.html)
