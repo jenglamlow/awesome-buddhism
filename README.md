@@ -44,6 +44,7 @@ A curated list of resources for Buddhism
 
 ## 南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
 
+- [《極聖解脫大手印》](https://www.hhdcb3office.org/html/information/announcement_no14_2010_07_16.html)
 - [學佛 Learning From Buddha](https://www.hhdcb3office.org/html/information/learningfrombuddha.html) (PDF - [中文](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionCH.pdf) | [English](https://www.hhdcb3office.org/pdf/Information/LearningfromBuddhaFINALVersionEN.pdf))
   - 這本《學佛》一書是南無第三世多杰羌佛在佛州邁阿密為隨行弟子們當眾所說的法，也是所有佛弟子要成就解脫所必需學習、必需要施行的最重要的法寶，說法間，一匹碩大無比的西洋菩提樹的葉子當眾從空而降，更為此法寶增添了一樁聖蹟公案。
   - This book, Learning from Buddha, is a Dharma that H.H. Dorje Chang Buddha III openly imparted in Miami, Florida for disciples who accompanied Him on that trip. It is also a most important Dharma treasure that all Buddhist disciples must study and put into practice in order to attain accomplishment and liberation. When this Dharma was being imparted, a gigantic leaf of a Western bodhi tree fell from the air in front of all who were there. That occurrence added a holy miracle to this Dharma treasure.
@@ -161,20 +162,20 @@ A curated list of resources for Buddhism
 #### 第三世多杰羌佛辦公室來函印證 Validations
 
 - [第十五號來函印證(07/02/2020)](https://www.hhdcb3office.org/html/information/validation_no15_2020_07_02.html)
-- [第十四號來函印證(01/28/2019)](https://www.hhdcb3office.org/html/information/validation_no14_2019_01_28.html)
-- [第十三號來函印證(12/16/2015)](https://www.hhdcb3office.org/html/information/validation_no13_2015_12_16.html)
-- [第十二號來函印證(10/13/2014)](https://www.hhdcb3office.org/html/information/validation_no12_2014_10_13.html)
-- [第十一號來函印證(08/17/2014)](https://www.hhdcb3office.org/html/information/validation_no11_2014_08_17.html)
-- [第十號來函印證(02/28/2014)](https://www.hhdcb3office.org/html/information/validation_no10_2014_02_28.html)
-- [第九號來函印證(01/18/2014)](https://www.hhdcb3office.org/html/information/validation_no9_2014_01_18.html)
-- [第八號來函印證(01/11/2014)](https://www.hhdcb3office.org/html/information/validation_no8_2014_01_11.html)
-- [第七號來函印證(12/31/2013)](https://www.hhdcb3office.org/html/information/validation_no7_2013_12_31.html)
-- [第六號來函印證(12/26/2013)](https://www.hhdcb3office.org/html/information/validation_no6_2013_12_26.html)
-- [第五號來函印證(12/22/2013)](https://www.hhdcb3office.org/html/information/validation_no5_2013_12_22.html)
-- [第四號來函印證(12/21/2013)](https://www.hhdcb3office.org/html/information/validation_no4_2013_12_21.html)
-- [第三號來函印證(12/20/2013)](https://www.hhdcb3office.org/html/information/validation_no3_2013_12_20.html)
-- [第二號來函印證(12/19/2013)](https://www.hhdcb3office.org/html/information/validation_no2_2013_12_19.html)
-- [第一號來函印證(12/17/2013)](https://www.hhdcb3office.org/html/information/validation_no1_2013_12_17.html)
+- [第十四號來函印證(01/28/2019)](https://www.hhdcb3office.org/html/information/validation_no14_2019_01_28.html) | [Validation #14](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-14/)
+- [第十三號來函印證(12/16/2015)](https://www.hhdcb3office.org/html/information/validation_no13_2015_12_16.html) ｜ [Validation #13](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/facts-no-13-response-to-sufang-zhang/)
+- [第十二號來函印證(10/13/2014)](https://www.hhdcb3office.org/html/information/validation_no12_2014_10_13.html) | [Validation #12](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-12/)
+- [第十一號來函印證(08/17/2014)](https://www.hhdcb3office.org/html/information/validation_no11_2014_08_17.html) | [Validation #11](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-11/)
+- [第十號來函印證(02/28/2014)](https://www.hhdcb3office.org/html/information/validation_no10_2014_02_28.html) | [Validation #10](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-10/)
+- [第九號來函印證(01/18/2014)](https://www.hhdcb3office.org/html/information/validation_no9_2014_01_18.html) | [Validation #9](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-9/)
+- [第八號來函印證(01/11/2014)](https://www.hhdcb3office.org/html/information/validation_no8_2014_01_11.html) | [Validation #8](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-8/)
+- [第七號來函印證(12/31/2013)](https://www.hhdcb3office.org/html/information/validation_no7_2013_12_31.html) | [Validation #7](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-7/)
+- [第六號來函印證(12/26/2013)](https://www.hhdcb3office.org/html/information/validation_no6_2013_12_26.html) | [Validation #6](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-6/)
+- [第五號來函印證(12/22/2013)](https://www.hhdcb3office.org/html/information/validation_no5_2013_12_22.html) | [Validation #5](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-5/)
+- [第四號來函印證(12/21/2013)](https://www.hhdcb3office.org/html/information/validation_no4_2013_12_21.html) | [Validation #4](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-4/)
+- [第三號來函印證(12/20/2013)](https://www.hhdcb3office.org/html/information/validation_no3_2013_12_20.html) | [Validation #3](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-3-2/)
+- [第二號來函印證(12/19/2013)](https://www.hhdcb3office.org/html/information/validation_no2_2013_12_19.html) | [Validation #2](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-2/)
+- [第一號來函印證(12/17/2013)](https://www.hhdcb3office.org/html/information/validation_no1_2013_12_17.html) | [Validation #1](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/validations/validation-1/)
 
 #### 第三世多杰羌佛辦公室綜合 Comprehensiveness
 
