@@ -24,7 +24,7 @@ A curated list of resources for Buddhism
     - [回覆諮詢 Replies](#回覆諮詢-replies)
   - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
-- [鏈接 Link](#鏈接-link)
+- [鏈接 Resources](#鏈接-resources)
 
 ## 介紹 Introduction
 
@@ -157,7 +157,7 @@ A curated list of resources for Buddhism
 
 #### 第三世多杰羌佛辦公室通知 Notices
 
-- [第 201201 號 (06/16/2012)](https://www.hhdcb3office.org/html/information/notice_no1_2012_06_16.html)
+- [第 201201 號 (06/16/2012)](https://www.hhdcb3office.org/html/information/notice_no1_2012_06_16.html) | [Notice No. 201201](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/notices/notice-no-201201/)
 
 #### 第三世多杰羌佛辦公室來函印證 Validations
 
@@ -179,7 +179,7 @@ A curated list of resources for Buddhism
 
 #### 第三世多杰羌佛辦公室綜合 Comprehensiveness
 
-- [給售賣南無第三世多杰羌佛複製品畫的公司的一封公開信](https://www.hhdcb3office.org/html/information/comprehensiveness_2014_10_29.html)
+- [給售賣南無第三世多杰羌佛複製品畫的公司的一封公開信](https://www.hhdcb3office.org/html/information/comprehensiveness_2014_10_29.html) | [Open Letter Concerning Painting Duplicates](https://xuanfa.net/announcements/office-of-hh-dorje-chang-buddha-iii/open-letter-concerning-painting-duplicates/)
 
 ### 世界佛教總部 World Buddhism Association Headquarters
 
@@ -320,7 +320,7 @@ A curated list of resources for Buddhism
   - :cinema: [佛教成就聖德 佛教界為趙玉勝居士舉辦盛大告別法會](https://www.youtube.com/watch?v=j2Dq544mSJ0)
 - [王靈澤居士、王程娥芬居士](https://www.wbahq.org/ch/portfolio/%e7%8e%8b%e9%9d%88%e6%be%a4/) | [Layman Wang Ling-Ze and Laywoman Wang Cheng E-Feng](https://www.wbahq.org/portfolio/layman-wang/)
 
-## 鏈接 Link
+## 鏈接 Resources
 
 - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](https://www.hhdcb3office.org/)
 - [世界佛教總部 World Buddhism Association Headquarters](https://www.wbahq.org/)
