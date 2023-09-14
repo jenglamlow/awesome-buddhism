@@ -322,6 +322,8 @@ A curated list of resources for Buddhism
 
 ## 鏈接 Resources
 
+### 網站 Website
+
 - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](https://www.hhdcb3office.org/)
 - [世界佛教總部 World Buddhism Association Headquarters](https://www.wbahq.org/)
 - [國際佛教僧尼總會 International Buddhism Sangha Association (IBSA)](https://ibsahq.org/)
@@ -329,3 +331,11 @@ A curated list of resources for Buddhism
 - [佛教大願菩提金剛正法中心 Tayuan Puti Chinkang Dhamma Center (TPCDCT)](https://www.tpcdct.org/)
 - [Xuanfa Institute](https://xuanfa.net/)
 - [Zhaxi Zhuoma](https://www.zhaxizhuoma.org/)
+
+### Youtube
+
+- [聖蹟寺 Holy Miracles Temple](https://www.youtube.com/@holymiraclestemple2184)
+- [華藏寺 Hua Zang Si](https://www.youtube.com/@HuaZangSi)
+- [佛教大願菩提金剛正法中心](https://www.youtube.com/@tpcdct)
+- [恭誦經論](https://www.youtube.com/@user-qx1qs2tm1g)
+- [搜吉](https://www.youtube.com/@user-ee1cz2hy4c)
