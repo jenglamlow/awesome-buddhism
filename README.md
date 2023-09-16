@@ -23,6 +23,7 @@ A curated list of resources for Buddhism
     - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
     - [回覆諮詢 Replies](#回覆諮詢-replies)
   - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
+- [文章 Articles](#文章-articles)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Resources](#鏈接-resources)
 
@@ -61,6 +62,9 @@ A curated list of resources for Buddhism
 - [《古佛降世的背後》](https://www.tpcdct.org/article/1441)
 - [《揭開真相》](http://www.gufowang.org/tag/%E6%8F%AD%E5%BC%80%E7%9C%9F%E7%9B%B8/) - [簡介](https://www.tpcdct.org/article/1439) | [Revealing the Truth](https://www.amazon.com/Revealing-Truth-Zheng-Hui-Shi/dp/0915556499/ref=sr_1_1?ie=UTF8&qid=1458851415&sr=8-1&keywords=revealing+the+truth)
 - [聖德高僧們的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
+- [《藏密真踪》](https://www.tpcdct.org/article/1794)
+- [《悉真論》](https://www.tpcdct.org/article/3431) | [Know the True Doctrines](https://www.amazon.com/Know-Doctrines-Nortbu-Wangpo-Rinpoche/dp/9579785562)
+- [《金剛密鑒》](https://www.tpcdct.org/article/1539)
 - [西方極樂世界遊記 (寬淨法師)](https://www.tpcdct.org/article/1540)
 - [密勒日巴尊者傳](https://www.tpcdct.org/article/1499)
 
@@ -319,6 +323,12 @@ A curated list of resources for Buddhism
 - [聖蹟寺光明祈福燈](https://www.wbahq.org/ch/sjs-a/hmt-a20190417/) | [Lighting Blessing Lamps at the Holy Miracles Temple](https://www.wbahq.org/holy-miracle-temple-announcements/a20190417/)
 - [聖蹟寺僧眾對佛弟子們致歉](https://www.wbahq.org/ch/sjs-a/%e8%81%96%e8%b9%9f%e5%af%ba%e5%83%a7%e7%9c%be%e5%b0%8d%e4%bd%9b%e5%bc%9f%e5%ad%90%e5%80%91%e8%87%b4%e6%ad%89/)
 - [聖蹟寺公告第 20180101 號](https://www.wbahq.org/ch/sjs-a/shjs20180101/)
+
+## 文章 Articles
+
+- [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542)，祿東贊法王
+- [能隱身的和尚開悟了我](https://www.tpcdct.org/article/4651#detail), 印昌上尊
+-
 
 ## 大成就者 The Great Achievers
 
