@@ -9,7 +9,7 @@ A curated list of resources for Buddhism
 `中文 ｜ English version`
 
 - [介紹 Introduction](#介紹-introduction)
-- [佛書 Books](#佛書-books)
+- [佛書 Buddhism Books](#佛書-buddhism-books)
 - [南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南無第三世多杰羌佛說法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
 - [南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha](#南無釋迦牟尼佛所傳佛法-buddha-dharma-of-shakyamuni-buddha)
 - [公告 Announcements](#公告-announcements)
@@ -33,7 +33,9 @@ A curated list of resources for Buddhism
 - [南無第三世多杰羌佛的五明成就介紹](https://www.wbahq.org/ch/fv/) | [H.H. Dorje Chang Buddha III’s Achievements In Five Vidyas](https://www.wbahq.org/fv/)
 - [多傑羌佛降世皈依境](https://www.wbahq.org/ch/%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e9%99%8d%e4%b8%96%e7%9a%88%e4%be%9d%e5%a2%83/) | [Dorje Chang Buddha Lineage Refuge Tree](https://www.wbahq.org/dorje-chang-buddha-lineage-refuge-tree/)
 
-## 佛書 Books
+## 佛書 Buddhism Books
+
+### 南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
 
 - [多杰羌佛第三世正法寶典 H.H Dorje Chang Buddha III A Treasury Of True Buddha-Dharma](https://www.sunmoonlight.org/book.htm) | [Google Books](https://www.google.com.my/books/edition/%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E7%AC%AC%E4%B8%89%E4%B8%96%E6%AD%A3%E6%B3%95%E5%AF%B6%E5%85%B8_H_H_Do/ScP1DwAAQBAJ?gbpv=1)
 - [藉心經說真諦](https://www.google.com.my/books/edition/%E8%97%89%E5%BF%83%E7%BB%8F%E8%AF%B4%E7%9C%9F%E8%B0%9B_%E7%AE%80%E4%BD%93%E7%89%88/xNAvEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%EF%BC%88H.H.+DORJE+CHANG+BUDDHA+III%EF%BC%89%22&printsec=frontcover)
@@ -44,6 +46,9 @@ A curated list of resources for Buddhism
 - [《佛法精髓》](https://www.google.com.my/books/edition/%E4%BD%9B%E6%B3%95%E7%B2%BE%E9%AB%93/EfU1EAAAQBAJ?hl=en&gbpv=1&dq=%E4%BD%9B%E6%B3%95%E7%B2%BE%E9%AB%93&printsec=frontcover)
 - [正《達摩祖師論》](https://www.google.com.my/books/edition/%E6%AD%A3_%E9%81%94%E6%91%A9%E7%A5%96%E5%B8%AB%E8%AB%96/nxP0DwAAQBAJ?hl=en&gbpv=1)
 - [第三世多杰羌佛說《世法哲言》](https://ibodhi.org/%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e8%af%b4%e3%80%8a%e4%b8%96%e6%b3%95%e5%93%b2%e8%a8%80%e3%80%8b/) ([Google Books](https://www.google.com.my/books/edition/%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E8%AA%AA_%E4%B8%96%E6%B3%95%E5%93%B2%E8%A8%80/bxT0DwAAQBAJ?hl=en&gbpv=1)) | [Philosophical Sayings About Worldly Matters](https://sunmoonlight.org/book_72dpi/14-p346-357.pdf)
+
+### 佛書法著 Buddhist Writings
+
 - [阿王諾布帕母法著集（六論）](https://www.tpcdct.org/article/1415)
   - (一) 般若實相論
   - (二) 入法門論
