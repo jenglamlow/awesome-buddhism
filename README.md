@@ -61,6 +61,8 @@ A curated list of resources for Buddhism
 - [《古佛降世的背後》](https://www.tpcdct.org/article/1441)
 - [《揭開真相》](http://www.gufowang.org/tag/%E6%8F%AD%E5%BC%80%E7%9C%9F%E7%9B%B8/) - [簡介](https://www.tpcdct.org/article/1439) | [Revealing the Truth](https://www.amazon.com/Revealing-Truth-Zheng-Hui-Shi/dp/0915556499/ref=sr_1_1?ie=UTF8&qid=1458851415&sr=8-1&keywords=revealing+the+truth)
 - [聖德高僧們的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
+- [西方極樂世界遊記 (寬淨法師)](https://www.tpcdct.org/article/1540)
+- [密勒日巴尊者傳](https://www.tpcdct.org/article/1499)
 
 ## 南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma
 
