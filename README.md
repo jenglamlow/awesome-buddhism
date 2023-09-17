@@ -326,9 +326,14 @@ A curated list of resources for Buddhism
 
 ## 文章 Articles
 
-- [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542)，祿東贊法王
+- [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542), 祿東贊法王
 - [能隱身的和尚開悟了我](https://www.tpcdct.org/article/4651#detail), 印昌上尊
--
+- [第三世多杰羌佛大法会暨《籍心经说真谛》首发会上圣德们的讲话](http://www.zfbd108.org/forum.php?mod=viewthread&tid=1540&from=portal)
+- 马头明王水坛珠卦择决法
+  - [佛史失传千年的“马头明王水坛珠卦法”再现人间，圣僧见证](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4804&from=portal), 释证达
+  - [参加胜义马头明王水坛珠卦择决法记实](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4978&from=portal), 释正慧
+  - [见证“马头明王水坛珠卦择决大法”记实](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4806&from=portal), 释隆慧
+- [我终于见到 「菩提道损减增益法」 殊胜无上](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4953&from=portal), 释了正
 
 ## 大成就者 The Great Achievers
 
