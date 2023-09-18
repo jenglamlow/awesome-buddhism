@@ -24,6 +24,7 @@ A curated list of resources for Buddhism
     - [回覆諮詢 Replies](#回覆諮詢-replies)
   - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
 - [文章 Articles](#文章-articles)
+  - [拉珍文集](#拉珍文集)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Resources](#鏈接-resources)
 
@@ -334,6 +335,49 @@ A curated list of resources for Buddhism
   - [参加胜义马头明王水坛珠卦择决法记实](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4978&from=portal), 释正慧
   - [见证“马头明王水坛珠卦择决大法”记实](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4806&from=portal), 释隆慧
 - [我终于见到 「菩提道损减增益法」 殊胜无上](http://www.zfbd108.org/forum.php?mod=viewthread&tid=4953&from=portal), 释了正
+
+### 拉珍文集
+
+- [珍惜](https://www.tpcdct.org/article/1521#detail)
+- [說說「葉公好龍」式的佛弟子](https://www.tpcdct.org/article/1504#detail)
+- [想長遠一點，一切都還在蔓延](https://www.tpcdct.org/article/1505#detail)
+- [所知之障 害人至深](https://www.tpcdct.org/article/1506#detail)
+- [需要理清的幾個概念](https://www.tpcdct.org/article/1507#detail)
+- [佛陀的智慧遍及一切](https://www.tpcdct.org/article/1508#detail)
+- [柔軟心 — 看得見苦](https://www.tpcdct.org/article/1509#detail)
+- [從收看電視節目聯想到學佛受用](https://www.tpcdct.org/article/1510#detail)
+- [什麼是真慈悲？](https://www.tpcdct.org/article/1511#detail)
+- [初行者的自我保護](https://www.tpcdct.org/article/1512#detail)
+- [想因果，想眾生 — 寫給一些為人師表者](https://www.tpcdct.org/article/1513#detail)
+- [到底有誰認得佛法？— 回應國際佛教僧尼總會聲明](https://www.tpcdct.org/article/1514#detail)
+- [到底有誰認得佛法？（之二）— 從修行人的「種」與「品」談起](https://www.tpcdct.org/article/1515#detail)
+- [舉起你智慧的金剛錘（一）](https://www.tpcdct.org/article/1516#detail)
+- [舉起你智慧的金剛錘（二）](https://www.tpcdct.org/article/1517#detail)
+- [舉起你智慧的金剛錘（三）](https://www.tpcdct.org/article/1518#detail)
+- [舉起你智慧的金剛錘（四）](https://www.tpcdct.org/article/1519#detail)
+- [舉起你智慧的金剛錘（五）](https://www.tpcdct.org/article/1520#detail)
+- [一件必須清楚的事](https://www.tpcdct.org/article/1522#detail)
+- [信佛](https://www.tpcdct.org/article/1523#detail)
+- [舉起你智慧的金剛錘（六）](https://www.tpcdct.org/article/1524#detail)
+- [撕開他的畫皮](https://www.tpcdct.org/article/1525#detail)
+- [佛教理論的兩面性](https://www.tpcdct.org/article/1526#detail)
+- [實證聖量派掌握生死易如反掌之間](https://www.tpcdct.org/article/1527#detail)
+- [愚人可憐](https://www.tpcdct.org/article/1528#detail)
+- [鑒別聖德的級位](https://www.tpcdct.org/article/1529#detail)
+- [癡呆人才會用假文證公開出書](https://www.tpcdct.org/article/1530#detail)
+- [上師與眾生是否平等](https://www.tpcdct.org/article/1531#detail)
+- [修行人不要忘了目的 — 解脫](https://www.tpcdct.org/article/1532#detail)
+- [通往天國佛土之路](https://www.tpcdct.org/article/1533#detail)
+- [“四明行、四暗行”考驗弟子，不是聖者，即是邪師！](https://www.tpcdct.org/article/1534#detail)
+- [關於『「四明行、四暗行」考驗弟子，不是聖者，即是邪師』的補充](https://www.tpcdct.org/article/1535#detail)
+- [重點在內密灌頂是真是假](https://www.tpcdct.org/article/6177#detail)
+- [陳寶恆生，你用你的黑社會試試，警察公安馬上把你丟進監牢！](https://www.tpcdct.org/article/3095#detail)
+- [兩月見分曉的回顧 — 愚蠢邪恶之人幫陳寶恆生快速挖掘了墳墓](https://www.tpcdct.org/article/3098#detail)
+- [陳恆寶生脫不掉邪教妖魔的真身 — 誹謗佛法僧五戒全犯，五逆惡罪非釋種子](https://www.tpcdct.org/article/3130#detail)
+- [闡提陳恆寶生詐騙集團罪大無邊 — 將牽連其跟隨者遭連帶厄運](https://www.tpcdct.org/article/3183#detail)
+- [展觀羌佛的實際佛量 — 暴露陳妖的百無一能](https://www.tpcdct.org/article/3186#detail)
+- [基本文理都不通，難怪亂講經義](https://www.tpcdct.org/article/3197#detail)
+- [愚昧至極，不知羌佛是誰！](https://www.tpcdct.org/article/3217#detail)
 
 ## 大成就者 The Great Achievers
 
