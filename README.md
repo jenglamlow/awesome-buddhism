@@ -25,6 +25,7 @@ A curated list of resources for Buddhism
   - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
 - [文章 Articles](#文章-articles)
   - [拉珍文集](#拉珍文集)
+- [佛教法會與聖蹟](#佛教法會與聖蹟)
 - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
 - [鏈接 Resources](#鏈接-resources)
 
@@ -379,6 +380,14 @@ A curated list of resources for Buddhism
 - [展觀羌佛的實際佛量 — 暴露陳妖的百無一能](https://www.tpcdct.org/article/3186#detail)
 - [基本文理都不通，難怪亂講經義](https://www.tpcdct.org/article/3197#detail)
 - [愚昧至極，不知羌佛是誰！](https://www.tpcdct.org/article/3217#detail)
+
+## 佛教法會與聖蹟
+
+- [2023.07.02 南無第三世多杰羌佛佛誕日，藝術館外晴空萬里卻無中生有降下殊勝雨花樹法雨之甘露](https://www.tpcdct.org/article/8289#detail)
+- [祿東贊法王施展「隔空取物 神識外用」聖證量](https://www.tpcdct.org/article/7849#detail)
+- :cinema: [真正的金剛丸和真正的拙火功夫](https://www.youtube.com/watch?v=jN3i9jsD-BU)
+- [H.H.第三世多杰羌佛單手僅四根手指勾起 437.2 磅重的鎮殿金剛杵(相關新聞彙整)](https://www.tpcdct.org/article/7639#detail)
+- [髮舍利](https://www.yungton.org/%E6%AD%A3%E6%B3%95%E4%B9%8B%E9%96%80/%E8%A1%8C%E8%80%85%E6%B3%95%E8%AA%9E/%E9%AB%AE%E8%88%8D%E5%88%A9_%E2%80%94%E2%80%94%E3%80%8A%E5%98%8E%E5%A0%B5%E4%BB%81%E6%B3%A2%E4%B8%94%E3%80%8B.html)
 
 ## 大成就者 The Great Achievers
 
