@@ -42,23 +42,23 @@ A curated list of resources for Buddhism
 - [多杰羌佛第三世正法寶典 H.H Dorje Chang Buddha III A Treasury Of True Buddha-Dharma](https://www.sunmoonlight.org/book.htm) | [Google Books](https://www.google.com.my/books/edition/%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E7%AC%AC%E4%B8%89%E4%B8%96%E6%AD%A3%E6%B3%95%E5%AF%B6%E5%85%B8_H_H_Do/ScP1DwAAQBAJ?gbpv=1)
 - [藉心經說真諦](https://www.google.com.my/books/edition/%E8%97%89%E5%BF%83%E7%BB%8F%E8%AF%B4%E7%9C%9F%E8%B0%9B_%E7%AE%80%E4%BD%93%E7%89%88/xNAvEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%EF%BC%88H.H.+DORJE+CHANG+BUDDHA+III%EF%BC%89%22&printsec=frontcover)
 - [般若波羅密多心經講義](https://www.google.com.my/books/edition/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E5%AF%86%E5%A4%9A%E5%BF%83%E7%B6%93%E8%AC%9B%E7%BE%A9/bxP0DwAAQBAJ?hl=en&gbpv=1)
-- [南無第三世多杰羌佛說法《了義經》](https://www.tpcdct.org/article/1206)
-- [《南無第三世多杰羌佛經藏總集》第一集《東行說法》](https://www.tpcdct.org/article/8292)
-- [《南無第三世多杰羌佛經藏總集》第二集《旅行中應佛弟子之需隨緣說法》](https://www.tpcdct.org/article/8292)
+- [南無第三世多杰羌佛說法《了義經》](https://www.tpcdct.org/article/1206#detail)
+- [《南無第三世多杰羌佛經藏總集》第一集《東行說法》](https://www.tpcdct.org/article/8292#detail)
+- [《南無第三世多杰羌佛經藏總集》第二集《旅行中應佛弟子之需隨緣說法》](https://www.tpcdct.org/article/8292#detail)
 - [《佛法精髓》](https://www.google.com.my/books/edition/%E4%BD%9B%E6%B3%95%E7%B2%BE%E9%AB%93/EfU1EAAAQBAJ?hl=en&gbpv=1&dq=%E4%BD%9B%E6%B3%95%E7%B2%BE%E9%AB%93&printsec=frontcover)
 - [正《達摩祖師論》](https://www.google.com.my/books/edition/%E6%AD%A3_%E9%81%94%E6%91%A9%E7%A5%96%E5%B8%AB%E8%AB%96/nxP0DwAAQBAJ?hl=en&gbpv=1)
 - [第三世多杰羌佛說《世法哲言》](https://ibodhi.org/%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e8%af%b4%e3%80%8a%e4%b8%96%e6%b3%95%e5%93%b2%e8%a8%80%e3%80%8b/) ([Google Books](https://www.google.com.my/books/edition/%E7%AC%AC%E4%B8%89%E4%B8%96%E5%A4%9A%E6%9D%B0%E7%BE%8C%E4%BD%9B%E8%AA%AA_%E4%B8%96%E6%B3%95%E5%93%B2%E8%A8%80/bxT0DwAAQBAJ?hl=en&gbpv=1)) | [Philosophical Sayings About Worldly Matters](https://sunmoonlight.org/book_72dpi/14-p346-357.pdf)
 
 ### 佛書法著 Buddhist Writings
 
-- [阿王諾布帕母法著集（六論）](https://www.tpcdct.org/article/1415)
+- [阿王諾布帕母法著集（六論）](https://www.tpcdct.org/article/1415#detail)
   - (一) 般若實相論
   - (二) 入法門論
   - (三) 子必依論
   - (四) 因明論略示
   - (五) 成道必修定觀法
   - (六) 戒律論略釋
-- [《聖僧鐵記》](https://www.tpcdct.org/article/1543) | [True Stories About A Holy Monk](https://xuanfa.net/bibliography/free-books-to-download/true-stories-about-a-holy-monk/)
+- [《聖僧鐵記》](https://www.tpcdct.org/article/1543#detail) | [True Stories About A Holy Monk](https://xuanfa.net/bibliography/free-books-to-download/true-stories-about-a-holy-monk/)
 - [《菩提道次第略論》](https://www.tpcdct.org/article/1416)
 - [《古佛降世的背後》](https://www.tpcdct.org/article/1441)
 - [《揭開真相》](http://www.gufowang.org/tag/%E6%8F%AD%E5%BC%80%E7%9C%9F%E7%9B%B8/) - [簡介](https://www.tpcdct.org/article/1439) | [Revealing the Truth](https://www.amazon.com/Revealing-Truth-Zheng-Hui-Shi/dp/0915556499/ref=sr_1_1?ie=UTF8&qid=1458851415&sr=8-1&keywords=revealing+the+truth)
@@ -84,6 +84,7 @@ A curated list of resources for Buddhism
 - [這才是確保佛教徒成就的真正的無敵金剛法](https://www.hhdcb3office.org/html/information/02182021.html)
 - [聖者不是自己和弟子說了算的，符合考核印證，不是聖者也是聖者；空洞佛學理論與真正的佛法是不同的領域](https://www.hhdcb3office.org/html/information/01192021.html)
 - [新年說法：我身口意都符合真修行嗎？能成就解脫還是遭惡業苦果？](https://www.hhdcb3office.org/html/information/01012021.html)
+- [《心動著境即是魔，隨緣分別則無定》](https://www.tpcdct.org/article/4654#detail)
 
 ## 南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha
 
@@ -327,7 +328,7 @@ A curated list of resources for Buddhism
 
 ## 文章 Articles
 
-- [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542), 祿東贊法王
+- [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542#detail), 祿東贊法王
 - [能隱身的和尚開悟了我](https://www.tpcdct.org/article/4651#detail), 印昌上尊
 - [第三世多杰羌佛大法会暨《籍心经说真谛》首发会上圣德们的讲话](http://www.zfbd108.org/forum.php?mod=viewthread&tid=1540&from=portal)
 - 马头明王水坛珠卦择决法
