@@ -387,7 +387,10 @@ A curated list of resources for Buddhism
 - [祿東贊法王施展「隔空取物 神識外用」聖證量](https://www.tpcdct.org/article/7849#detail)
 - :cinema: [真正的金剛丸和真正的拙火功夫](https://www.youtube.com/watch?v=jN3i9jsD-BU)
 - [H.H.第三世多杰羌佛單手僅四根手指勾起 437.2 磅重的鎮殿金剛杵(相關新聞彙整)](https://www.tpcdct.org/article/7639#detail)
+- [南無第三世多杰羌佛代眾生擔黑業與返老回春對比法相](https://www.tpcdct.org/article/2555#detail)
 - [髮舍利](https://www.yungton.org/%E6%AD%A3%E6%B3%95%E4%B9%8B%E9%96%80/%E8%A1%8C%E8%80%85%E6%B3%95%E8%AA%9E/%E9%AB%AE%E8%88%8D%E5%88%A9_%E2%80%94%E2%80%94%E3%80%8A%E5%98%8E%E5%A0%B5%E4%BB%81%E6%B3%A2%E4%B8%94%E3%80%8B.html)
+- [佛教聖蹟　寺廟浴佛法會佛像放光長達兩個多小時](https://www.tpcdct.org/article/1632#detail)
+- [真實佛法在人間 天樂五彩祥雲起 佛降甘露成寶柱 仰諤益西諾布大法王佛誕展神威](https://www.tpcdct.org/article/1618#detail)
 
 ## 大成就者 The Great Achievers
 
