@@ -31,7 +31,8 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
     - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
   - [文章 Articles](#文章-articles)
     - [拉珍文集](#拉珍文集)
-  - [佛教法會與聖蹟](#佛教法會與聖蹟)
+  - [佛教法會 Buddhist Events \& Ceremonies](#佛教法會-buddhist-events--ceremonies)
+  - [聖蹟 Holy Occurence](#聖蹟-holy-occurence)
   - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
   - [鏈接 Resources](#鏈接-resources)
     - [網站 Website](#網站-website)
@@ -43,6 +44,14 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [南無第三世多杰羌佛](https://www.wbahq.org/ch/hhdcb3/) | [H.H. Dorje Chang Buddha III](https://www.wbahq.org/fv/)
 - [南無第三世多杰羌佛的五明成就介紹](https://www.wbahq.org/ch/fv/) | [H.H. Dorje Chang Buddha III’s Achievements In Five Vidyas](https://www.wbahq.org/fv/)
 - [多傑羌佛降世皈依境](https://www.wbahq.org/ch/%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e9%99%8d%e4%b8%96%e7%9a%88%e4%be%9d%e5%a2%83/) | [Dorje Chang Buddha Lineage Refuge Tree](https://www.wbahq.org/dorje-chang-buddha-lineage-refuge-tree/)
+- 《認識南無羌佛》系列
+  - [《認識南無羌佛》第七集](https://www.youtube.com/watch?v=me5Wvf6N7DM)
+  - [《認識南無羌佛》第六集](https://www.youtube.com/watch?v=KC356RHi7vY)
+  - [《認識南無羌佛》第五集](https://www.youtube.com/watch?v=scWBkdVa7Ug)
+  - [《認識南無羌佛》第四集](https://www.youtube.com/watch?v=JMpUxM-vHEc)
+  - [《認識南無羌佛》第三集](https://www.youtube.com/watch?v=kHXZScLMcGA)
+  - [《認識南無羌佛》第二集](https://www.youtube.com/watch?v=GbwusBadpTo)
+  - [《認識南無羌佛》第一集](https://www.youtube.com/watch?v=0Qu4M4nZmqs)
 
 ## 佛書 Buddhism Books
 
@@ -391,9 +400,28 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [基本文理都不通，難怪亂講經義](https://www.tpcdct.org/article/3197#detail)
 - [愚昧至極，不知羌佛是誰！](https://www.tpcdct.org/article/3217#detail)
 
-## 佛教法會與聖蹟
+## 佛教法會 Buddhist Events & Ceremonies
 
-- [2023.07.02 南無第三世多杰羌佛佛誕日，藝術館外晴空萬里卻無中生有降下殊勝雨花樹法雨之甘露](https://www.tpcdct.org/article/8289#detail)
+- 2025年恭迎南無第三世多杰羌佛佛誕法會 | 2025 Dharma Assembly Respectfully Honoring the Holy Birthday of Namo Dorje Chang Buddha III
+  - :cinema: [2025年恭迎南無第三世多杰羌佛佛誕法會 | 全球過千信衆南加沐佛恩迎經藏](https://www.youtube.com/watch?v=WLLXWizjJEM)
+  - :cinema: [[華語電視]全球佛子赴美共迎 南無第三世多杰羌佛佛誕](https://www.youtube.com/watch?v=X9w7PEZu0lQ)
+  - :cinema: [[ZWTV北美中旺電視]2025.6.13 世界佛弟子齊誦《了義經》共迎南無羌佛聖誕](https://www.youtube.com/watch?v=wlgk2UtsJpU)
+  - :cinema: [[ZWTV北美中旺電視]全球佛教徒蒞美迎《南無第三世多杰羌佛經藏總集》發行](https://www.youtube.com/watch?v=baR1RvU8iNs)
+  - :cinema: [[華語電視]《南無第三世多杰羌佛經藏總集》新卷隆重發行全球佛教徒蒞美 共沐佛恩迎經藏](https://www.youtube.com/watch?v=YTn3XFjx4aQ)
+- 2024年恭迎南無第三世多杰羌佛佛誕法會 | 2024 Dharma Assembly Respectfully Honoring the Holy Birthday of Namo Dorje Chang Buddha III
+  - :cinema: [2024年恭迎南無第三世多杰羌佛佛誕法會 聖典傳世，百人獻供!](https://www.youtube.com/watch?v=OAnO-JuNxvE)
+  - :cinema: [[中天北美新聞]2024.06.20南無羌佛佛誕法會 呈獻一百零八供](https://www.youtube.com/watch?v=2ScJ5KH_oZg)
+  - :cinema: [［天下新聞］南加州 20240620 全球各界恭迎南無第三世多杰羌佛佛誕法會 聖典傳世利益有情](https://www.youtube.com/watch?v=EUsBhZnhGH4)
+  - :cinema: [[中天北美新聞]2024.06.19全球各界恭迎南無第三世多杰羌佛佛誕法會聖典傳世](https://www.youtube.com/watch?v=Vcs899sdlX0)
+  - :cinema: [華語電視2024年恭迎南無第三世多杰羌佛佛誕法會 聖典傳世](https://www.youtube.com/watch?v=Lz5x_tfCk_A)
+- 2023年恭迎南無第三世多杰羌佛佛誕法會 
+  - :cinema: [2023年 恭迎南無第三世多杰羌佛佛誕暨《南無第三世多杰羌佛經藏總集》 （6/30/2023 - 7/1/2023）](https://www.youtube.com/watch?v=4Htn7zPZZLY)
+  - [2023.07.02 南無第三世多杰羌佛佛誕日，藝術館外晴空萬里卻無中生有降下殊勝雨花樹法雨之甘露](https://www.tpcdct.org/article/8289#detail)
+- 2022年恭迎南無第三世多杰羌佛佛誕法會
+  - :cinema: [2022年 恭迎 南無第三世多杰羌佛佛誕法會 （6/11/2022 - 6/12/2022）](https://www.youtube.com/watch?v=NZJLueoZSxw)
+- [世界佛教總部2018年6月24日加州聖天湖「向第三世多杰羌佛祝壽」法會片段](https://www.youtube.com/watch?v=TZxJJZZQyhg)
+
+## 聖蹟 Holy Occurence
 - [祿東贊法王施展「隔空取物 神識外用」聖證量](https://www.tpcdct.org/article/7849#detail)
 - :cinema: [真正的金剛丸和真正的拙火功夫](https://www.youtube.com/watch?v=jN3i9jsD-BU)
 - [H.H.第三世多杰羌佛單手僅四根手指勾起 437.2 磅重的鎮殿金剛杵(相關新聞彙整)](https://www.tpcdct.org/article/7639#detail)
