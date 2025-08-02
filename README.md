@@ -32,7 +32,7 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
   - [文章 Articles](#文章-articles)
     - [拉珍文集](#拉珍文集)
   - [佛教法會 Buddhist Events \& Ceremonies](#佛教法會-buddhist-events--ceremonies)
-  - [聖蹟 Holy Occurence](#聖蹟-holy-occurence)
+  - [佛法聖蹟 Holy Occurence](#佛法聖蹟-holy-occurence)
   - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
   - [鏈接 Resources](#鏈接-resources)
     - [網站 Website](#網站-website)
@@ -421,7 +421,8 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
   - :cinema: [2022年 恭迎 南無第三世多杰羌佛佛誕法會 （6/11/2022 - 6/12/2022）](https://www.youtube.com/watch?v=NZJLueoZSxw)
 - [世界佛教總部2018年6月24日加州聖天湖「向第三世多杰羌佛祝壽」法會片段](https://www.youtube.com/watch?v=TZxJJZZQyhg)
 
-## 聖蹟 Holy Occurence
+## 佛法聖蹟 Holy Occurence
+- :cinema: [佛陀們認證了第三世多杰羌佛 看似平淡聖蹟 唯有佛陀能行](https://www.youtube.com/watch?v=P4fNc6TTiyc)
 - [祿東贊法王施展「隔空取物 神識外用」聖證量](https://www.tpcdct.org/article/7849#detail)
 - :cinema: [真正的金剛丸和真正的拙火功夫](https://www.youtube.com/watch?v=jN3i9jsD-BU)
 - [H.H.第三世多杰羌佛單手僅四根手指勾起 437.2 磅重的鎮殿金剛杵(相關新聞彙整)](https://www.tpcdct.org/article/7639#detail)
@@ -429,14 +430,21 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [髮舍利](https://www.yungton.org/%E6%AD%A3%E6%B3%95%E4%B9%8B%E9%96%80/%E8%A1%8C%E8%80%85%E6%B3%95%E8%AA%9E/%E9%AB%AE%E8%88%8D%E5%88%A9_%E2%80%94%E2%80%94%E3%80%8A%E5%98%8E%E5%A0%B5%E4%BB%81%E6%B3%A2%E4%B8%94%E3%80%8B.html)
 - [佛教聖蹟　寺廟浴佛法會佛像放光長達兩個多小時](https://www.tpcdct.org/article/1632#detail)
 - [真實佛法在人間 天樂五彩祥雲起 佛降甘露成寶柱 仰諤益西諾布大法王佛誕展神威](https://www.tpcdct.org/article/1618#detail)
+- :cinema: [多杰羌佛加持的金剛寶座地和弟子扎西卓瑪仁波且](https://www.youtube.com/watch?v=yYU0q_Gjzss)
+- :cinema: [神鳥點水舞](https://www.youtube.com/watch?v=Kj_qSzbRsOo)
 
 ## 大成就者 The Great Achievers
 
+- [南無第三世多杰羌佛座下大成就弟子們](https://www.tpcdct.org/article/7625#detail)
 - [因海聖尊](https://www.wbahq.org/ch/portfolio/yinhai/) | [Holy Monk Yinhai Shengzun](https://www.wbahq.org/portfolio/yinhai/)
   - :cinema: [死後能復活、圓寂顯神變 因海和尚 5 天燒不化奇蹟《57 爆新聞》精選篇 網路獨播版](https://www.youtube.com/watch?v=zMnbuWiM4OA)
 - [H.E. 唐東迦波菩薩](https://www.wbahq.org/ch/portfolio/tangtonggyalpo/) | [Tangtong Gyalpo Bodhisattva](https://www.wbahq.org/portfolio/ttg/)
   - :cinema: [唐東嘉波大菩薩拜 南無第三世多杰羌佛為師](https://www.youtube.com/watch?v=VJZYTJedL-g)
 - [卻吉降養清真尊者](https://www.wbahq.org/ch/portfolio/queji-jiangyang-qingzhen/) | [H.E. Queji Jiangyang Qingzhen](https://www.wbahq.org/portfolio/queji-jiangyang-qingzhen/)
+- [旺扎上尊](https://www.tpcdct.org/article/7625#%E6%97%BA%E6%89%8E%E4%B8%8A%E5%B0%8A)
+  - :cinema: [旺扎上尊在聖蹟寺誦經加持供燈信眾 Wangzha Shangzun Chants Sutras at the Holy Miracles Temple to Bless Buddhists Who Made Lamp Offering](https://www.youtube.com/watch?v=IaOQnd5zpH4)
+  - :cinema: [世界大力士祖父旺扎上尊回律師問 Wangzha Shangzun, "Grandfather" of Strongman, Replies to Attorney's Questions](https://www.youtube.com/watch?v=8QmkPrzA0ts)
+  - :cinema: [Tearing My Lat (RAW FOOTAGE) Plus Recovery Update](https://www.youtube.com/watch?v=Io4hpwj9mCE)
 - [果章法師](https://www.wbahq.org/ch/portfolio/guozhang/) | [Venerable Dharma Teacher Guozhang](https://www.wbahq.org/portfolio/guozhang/)
 - [普觀大和尚](https://www.wbahq.org/ch/portfolio/puguan/) | [Dharma Master Puguan](https://www.wbahq.org/portfolio/puguan/)
 - [意昭法師](https://www.wbahq.org/ch/portfolio/%e6%84%8f%e6%98%ad%e6%b3%95%e5%b8%ab/) | [Dharma Master Yizhao](https://www.wbahq.org/portfolio/venerable-dharma-teacher-yizhao/)
