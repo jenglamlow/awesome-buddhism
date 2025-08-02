@@ -2,11 +2,14 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources for Buddhism
 
-如来佛教正法相关资料
+An ever-growing, carefully curated list of high-quality resources related to Buddhism, with a special focus on the authentic teachings, texts, and practices of authentic Buddhism. This list is intended for practitioners, researchers, and anyone interested in deepening their understanding of Buddhist philosophy, history, and living traditions. Both Chinese and English resources are included to serve a global audience.
 
-`中文 ｜ English version`
+如来佛教正法相关资料，精选中英文佛教经典、法著、公告、法会、成就者等权威资源，适合修行者、研究者及所有希望深入了解佛教正法与实践的人士。
+
+> Resources are listed as: 🇨🇳 [中文](#) | 🇬🇧 [English](#). If a resource is only available in one language, the other link may be omitted.
+
+> 资源以：🇨🇳 [中文](#) | 🇬🇧 [English](#) 格式列出。如某资源仅有一种语言，另一语言链接可省略。
 
 - [介紹 Introduction](#介紹-introduction)
 - [佛書 Buddhism Books](#佛書-buddhism-books)
