@@ -3,34 +3,39 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-An ever-growing, carefully curated list of high-quality resources related to Buddhism, with a special focus on the authentic teachings, texts, and practices of authentic Buddhism. This list is intended for practitioners, researchers, and anyone interested in deepening their understanding of Buddhist philosophy, history, and living traditions. Both Chinese and English resources are included to serve a global audience.
+An ever-growing, carefully curated list of high-quality resources related to Buddhism, with a special focus on the authentic teachings, texts, and practices of Buddhism. This list is intended for practitioners, researchers, and anyone interested in deepening their understanding of Buddhist philosophy, history, and living traditions. Both Chinese and English resources are included to serve a global audience.
 
 如来佛教正法相关资料，精选中英文佛教经典、法著、公告、法会、成就者等权威资源，适合修行者、研究者及所有希望深入了解佛教正法与实践的人士。
 
-> Resources are listed as: 🇨🇳 [中文](#) | 🇬🇧 [English](#). If a resource is only available in one language, the other link may be omitted.
+> Each resource is shown as: [中文](#) | [English](#). If a resource is only available in one language, the other link will be omitted.
 
-> 资源以：🇨🇳 [中文](#) | 🇬🇧 [English](#) 格式列出。如某资源仅有一种语言，另一语言链接可省略。
+> 资源以：[中文](#) | [English](#) 格式展示。如某资源仅有一种语言，另一语言链接将省略。
 
-- [介紹 Introduction](#介紹-introduction)
-- [佛書 Buddhism Books](#佛書-buddhism-books)
-- [南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南無第三世多杰羌佛說法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
-- [南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha](#南無釋迦牟尼佛所傳佛法-buddha-dharma-of-shakyamuni-buddha)
-- [公告 Announcements](#公告-announcements)
-  - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
-    - [第三世多杰羌佛辦公室公告 Announcements](#第三世多杰羌佛辦公室公告-announcements)
-    - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
-    - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
-    - [第三世多杰羌佛辦公室來函印證 Validations](#第三世多杰羌佛辦公室來函印證-validations)
-    - [第三世多杰羌佛辦公室綜合 Comprehensiveness](#第三世多杰羌佛辦公室綜合-comprehensiveness)
-  - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
-    - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
-    - [回覆諮詢 Replies](#回覆諮詢-replies)
-  - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
-- [文章 Articles](#文章-articles)
-  - [拉珍文集](#拉珍文集)
-- [佛教法會與聖蹟](#佛教法會與聖蹟)
-- [大成就者 The Great Achievers](#大成就者-the-great-achievers)
-- [鏈接 Resources](#鏈接-resources)
+- [Awesome Buddhism](#awesome-buddhism)
+  - [介紹 Introduction](#介紹-introduction)
+  - [佛書 Buddhism Books](#佛書-buddhism-books)
+    - [南無第三世多杰羌佛 H.H Dorje Chang Buddha III](#南無第三世多杰羌佛-hh-dorje-chang-buddha-iii)
+    - [佛書法著 Buddhist Writings](#佛書法著-buddhist-writings)
+  - [南無第三世多杰羌佛說法 H.H Dorje Chang Buddha III Imparting Buddha Dharma](#南無第三世多杰羌佛說法-hh-dorje-chang-buddha-iii-imparting-buddha-dharma)
+  - [南無釋迦牟尼佛所傳佛法 Buddha Dharma of Shakyamuni Buddha](#南無釋迦牟尼佛所傳佛法-buddha-dharma-of-shakyamuni-buddha)
+  - [公告 Announcements](#公告-announcements)
+    - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](#第三世多杰羌佛辦公室-the-office-of-hh-dorje-chang-buddha-iii)
+      - [第三世多杰羌佛辦公室公告 Announcements](#第三世多杰羌佛辦公室公告-announcements)
+      - [第三世多杰羌佛辦公室說明 Statements](#第三世多杰羌佛辦公室說明-statements)
+      - [第三世多杰羌佛辦公室通知 Notices](#第三世多杰羌佛辦公室通知-notices)
+      - [第三世多杰羌佛辦公室來函印證 Validations](#第三世多杰羌佛辦公室來函印證-validations)
+      - [第三世多杰羌佛辦公室綜合 Comprehensiveness](#第三世多杰羌佛辦公室綜合-comprehensiveness)
+    - [世界佛教總部 World Buddhism Association Headquarters](#世界佛教總部-world-buddhism-association-headquarters)
+      - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
+      - [回覆諮詢 Replies](#回覆諮詢-replies)
+    - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
+  - [文章 Articles](#文章-articles)
+    - [拉珍文集](#拉珍文集)
+  - [佛教法會與聖蹟](#佛教法會與聖蹟)
+  - [大成就者 The Great Achievers](#大成就者-the-great-achievers)
+  - [鏈接 Resources](#鏈接-resources)
+    - [網站 Website](#網站-website)
+    - [Youtube](#youtube)
 
 ## 介紹 Introduction
 
@@ -216,6 +221,8 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 
 #### 總部公告 Headquarters Announcements
 
+- [2025年「恭迎南無第三世多杰羌佛佛誕」法會上翟芒尊者的講話](https://www.wbahq.org/ch/hq-announcements/2025%e5%b9%b4%e3%80%8c%e6%81%ad%e8%bf%8e%e5%8d%97%e7%84%a1%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e4%bd%9b%e8%aa%95%e3%80%8d%e6%b3%95%e6%9c%83%e4%b8%8a%e7%bf%9f%e8%8a%92/) | [The Venerable Tsemang’s Speech at the 2025 Dharma Ceremony in Honor of the Holy Birthday of Namo Dorje Chang Buddha III](https://www.wbahq.org/hq-announcements/the-venerable-tsemangs-speech-at-the-2025-dharma-ceremony-in-honor-of-the-holy-birthday-of-namo-dorje-chang-buddha-iii/)
+- [2024年「恭迎南無第三世多杰羌佛佛誕」法會上翟芒尊者的講話](https://www.wbahq.org/ch/hq-announcements/2024%e5%b9%b4%e3%80%8c%e6%81%ad%e8%bf%8e%e5%8d%97%e7%84%a1%e7%ac%ac%e4%b8%89%e4%b8%96%e5%a4%9a%e6%9d%b0%e7%be%8c%e4%bd%9b%e4%bd%9b%e8%aa%95%e3%80%8d%e6%b3%95%e6%9c%83%e4%b8%8a%e7%bf%9f%e8%8a%92/) | [The Venerable Tsemang’s Speech at the 2024 Dharma Ceremony in Honor of the Holy Birthday of Namo Dorje Chang Buddha III](https://www.wbahq.org/hq-announcements/a20240614/)
 - [2023 年「恭迎南無第三世多杰羌佛佛誕及《南無第三世多杰羌佛經藏總集》」法會上翟芒尊者及證達教尊的講話内容](https://www.wbahq.org/ch/hq-announcements/202306300701-speech/) | [The speeches by Venerable Tsemang and Jiaozun Zhengda at the Dharma Assembly to Celebrate the Holy Birthday of Namo Dorje Chang Buddha III in 2023](https://www.wbahq.org/hq-announcements/hqa-2023-07/)
 - [2022 年 6 月 11、12 日「恭迎南無第三世多杰羌佛佛誕」法會上翟芒尊者及證達教尊的講話](https://www.wbahq.org/ch/hq-announcements/hmt-20220614/) | [Speeches Delivered by Venerable Tsemang and Jiaozun Zhengda
   ](https://www.wbahq.org/hq-announcements/hmt-20220614/)
@@ -225,9 +232,9 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [總部公告 第 20210101 號-不是真正的聖者，不敢修十八法！](https://www.wbahq.org/ch/hq-announcements/a20210101/) | [HQ Announcement 20210101: An Impostor Will Not Dare To Practice These Eighteen Dharmas](https://www.wbahq.org/hq-announcements/a20210101/)
 - [總部公告第 20200107 號](https://www.wbahq.org/ch/hq-announcements/a20200107/) | [HQ Announcement 20200107: Regarding Two Serious Issues](https://www.wbahq.org/hq-announcements/a20200107/)
 - [總部公告 第 20200106 號 邪惡令人髮指](https://www.wbahq.org/ch/hq-announcements/a20200106/) | [HQ Announcement No. 20200106: It Is Brazen and Outrageous Evil](https://www.wbahq.org/hq-announcements/a20200106/)
-- [總部公告 第 20200105 號 勝義“金瓶掣籤”法規](https://www.wbahq.org/ch/hq-announcements/a20200105/)
-- [總部公告 第 20200104 號 勝義“金瓶掣籤”緣起](https://www.wbahq.org/ch/hq-announcements/a20200104/)
-- [總部公告 第 20200103 號 學的不是本尊認可的經書法本，難以成就](https://www.wbahq.org/ch/hq-announcements/a20200103/)
+- [總部公告 第 20200105 號 勝義“金瓶掣籤”法規](https://www.wbahq.org/ch/hq-announcements/a20200105/) | [HQ Announcement 20200105: The Rules and Regulations of the Holy Drawing Lots from the Golden Urn (2020/08/03)](https://www.wbahq.org/hq-announcements/a20200105/)
+- [總部公告 第 20200104 號 勝義“金瓶掣籤”緣起](https://www.wbahq.org/ch/hq-announcements/a20200104/) | [HQ Announcement No. 20200104: The Dependent Origination of the holy Drawing Lots from the Golden Urn (2020/07/12)](https://www.wbahq.org/hq-announcements/a20200104/)
+- [總部公告 第 20200103 號 學的不是本尊認可的經書法本，難以成就](https://www.wbahq.org/ch/hq-announcements/a20200103/) | [HQ Announcement 20200103: It will be difficult for you to attain accomplishment if you learn the scriptures and Dharma texts that are not approved by the Yidam (2020/06/17)](https://www.wbahq.org/hq-announcements/a20200103/)
 - [總部公告 第 20200102 號 正確的共修 —共修不可走題涉偏鋒](https://www.wbahq.org/ch/hq-announcements/a20200101/) | [HQ Announcement 20200102: Correct Group Study –A Group Study Shall Not Deviate from The Topics](https://www.wbahq.org/hq-announcements/a20200102/)
 - [總部公告 第 20200101 號 正確答案，回覆重要諮詢](https://www.wbahq.org/ch/hq-announcements/a20200101-2/) | [HQ Announcement 20200101: Correct Reply to an Important Inquiry](https://www.wbahq.org/hq-announcements/a20200101/)
 - [總部發文：木雅迥扎解釋揭發材料的聲明](https://www.wbahq.org/ch/hq-announcements/a-fw20191206/)
@@ -300,10 +307,10 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [回覆諮詢 第 20210103 號](https://www.wbahq.org/ch/replies/r20210103/) | [Reply to Inquiry No.20210103](https://www.wbahq.org/hq-announcements/r20210103/)
 - [回覆諮詢 第 20210102 號](https://www.wbahq.org/ch/replies/r2021012/) | [Reply to Inquiry 20210102](https://www.wbahq.org/hq-announcements/r20210102/)
 - [回覆諮詢 第 20210101 號](https://www.wbahq.org/ch/replies/r20210101/) | [Replying to Inquiry #20210101](https://www.wbahq.org/hq-announcements/r20210101/)
-- [回覆諮詢 第 20200104 號 （正確版）- 勝義馬頭明王水壇大法](https://www.wbahq.org/ch/replies/r20200104/)
-- [回覆諮詢 第 20200103 號](https://www.wbahq.org/ch/replies/r20200103/)
-- [回覆諮詢 第 20200102 號](https://www.wbahq.org/ch/replies/r20200102/)
-- [回覆諮詢 第 20200101 號](https://www.wbahq.org/ch/replies/r20200101/)
+- [回覆諮詢 第 20200104 號 （正確版）- 勝義馬頭明王水壇大法](https://www.wbahq.org/ch/replies/r20200104/) | [Reply to Inquiries #20200104: The Holy Hayagriva Bright King’s Water-Altar Grand Dharma (2020/08/17)](https://www.wbahq.org/hq-announcements/r20200104/)
+- [回覆諮詢 第 20200103 號](https://www.wbahq.org/ch/replies/r20200103/) | [Reply to Inquiries #20200103 (2020/07/09)](https://www.wbahq.org/hq-announcements/r20200103/)
+- [回覆諮詢 第 20200102 號](https://www.wbahq.org/ch/replies/r20200102/) | [Reply to Inquiries #20200102 (2020/06/14)](https://www.wbahq.org/hq-announcements/r20200102/)
+- [回覆諮詢 第 20200101 號](https://www.wbahq.org/ch/replies/r20200101/) | [Reply to Inquiries #20200101 (2020/05/08)](https://www.wbahq.org/hq-announcements/r20200101/)
 - [回覆諮詢 第 20190101 號](https://www.wbahq.org/ch/replies/r20190101/) | [Reply to Inquiries No. 20190101](https://www.wbahq.org/replies/r20190101/)
 - [回覆諮詢 第 20180109 號](https://www.wbahq.org/ch/replies/r20180109/) | [Reply to Inquiries No. 20180109](https://www.wbahq.org/replies/r20180109/)
 - [回覆諮詢 第 20180108 號](https://www.wbahq.org/ch/replies/r20180108/) | [Reply to Inquiries No. 20180108](https://www.wbahq.org/replies/r20180108/)
