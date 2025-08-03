@@ -29,6 +29,13 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
       - [總部公告 Headquarters Announcements](#總部公告-headquarters-announcements)
       - [回覆諮詢 Replies](#回覆諮詢-replies)
     - [聖蹟寺 Holy Miracle Temple](#聖蹟寺-holy-miracle-temple)
+    - [華藏寺 Hua Zang Si](#華藏寺-hua-zang-si)
+    - [國際佛教僧尼總會 International Buddhism Sangha Association (IBSA)](#國際佛教僧尼總會-international-buddhism-sangha-association-ibsa)
+      - [國際佛教僧尼總會公告](#國際佛教僧尼總會公告)
+      - [國際佛教僧尼總會說明](#國際佛教僧尼總會說明)
+      - [國際佛教僧尼總會聲明](#國際佛教僧尼總會聲明)
+      - [國際佛教僧尼總會來稿照轉](#國際佛教僧尼總會來稿照轉)
+      - [國際佛教僧尼總會其它](#國際佛教僧尼總會其它)
   - [文章 Articles](#文章-articles)
     - [拉珍文集](#拉珍文集)
   - [佛教法會 Buddhist Events \& Ceremonies](#佛教法會-buddhist-events--ceremonies)
@@ -346,6 +353,57 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [聖蹟寺僧眾對佛弟子們致歉](https://www.wbahq.org/ch/sjs-a/%e8%81%96%e8%b9%9f%e5%af%ba%e5%83%a7%e7%9c%be%e5%b0%8d%e4%bd%9b%e5%bc%9f%e5%ad%90%e5%80%91%e8%87%b4%e6%ad%89/)
 - [聖蹟寺公告第 20180101 號](https://www.wbahq.org/ch/sjs-a/shjs20180101/)
 
+### 華藏寺 Hua Zang Si
+- [華藏寺南加分院 募款通告](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e5%8d%97%e5%8a%a0%e5%88%86%e9%99%a2%e5%8b%9f%e6%ac%be%e9%80%9a%e7%9f%a5%ef%bc%882018%e5%b9%b41%e6%9c%8815%e6%97%a5%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [華藏寺聲明（2016年01月14日）](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e8%81%b2%e6%98%8e%ef%bc%882016%e5%b9%b41%e6%9c%8814%e6%97%a5%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [華藏寺公告（第2015002號）](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a2015%e5%b9%b412%e6%9c%8822%e6%97%a5/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [華藏寺公告（2015年10月10日）](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a%ef%bc%882015%e5%b9%b410%e6%9c%8810%e6%97%a5%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [舊金山華藏寺嚴正聲明（2013.08.25）](https://huazangsi.org/%e8%88%8a%e9%87%91%e5%b1%b1%e8%8f%af%e8%97%8f%e5%af%ba%e5%9a%b4%e6%ad%a3%e8%81%b2%e6%98%8e%ef%bc%882013%e5%b9%b48%e6%9c%8825%e6%97%a5%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [華藏寺聲明（2011年6月27日）](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e8%81%b2%e6%98%8e%ef%bc%882011%e5%b9%b46%e6%9c%8827%e6%97%a5%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+- [華藏寺聲明（2010年4月）](https://huazangsi.org/%e8%8f%af%e8%97%8f%e5%af%ba%e8%81%b2%e6%98%8e%ef%bc%882010%e5%b9%b44%e6%9c%88%ef%bc%89/%e6%96%87%e5%91%8a%e7%99%bc%e4%bd%88/%e8%8f%af%e8%97%8f%e5%af%ba%e5%85%ac%e5%91%8a/)
+
+### 國際佛教僧尼總會 International Buddhism Sangha Association (IBSA)
+
+#### 國際佛教僧尼總會公告
+- [國際佛教僧尼總會(公告字第20150104號)： 《世界日報》真誠地對南無第三世多杰羌佛道歉](https://ibsahq.org/message-data?id=237)
+- [國際佛教僧尼總會公告 (公告字第20140103號) ：東方日報2014年3月25日港聞“第三世多杰羌佛大法會殊勝無比”](https://ibsahq.org/message-data?id=336)
+- [國際佛教僧尼總會公告 (公告字第20140102號)](https://ibsahq.org/message-data?id=412)
+- [國際佛教僧尼總會公告 (公告字第20140101號)](https://ibsahq.org/message-data?id=411)
+- [國際佛教僧尼總會公告（公告字第20130103號）](https://ibsahq.org/message-data?id=410)
+- [國際佛教僧尼總會公告（公告字第20130102號）](https://ibsahq.org/message-data?id=409)
+- [國際佛教僧尼總會公告(公告字第20120213)](https://ibsahq.org/message-data?id=408)
+- [國際佛教僧尼總會公告（公告字第20120210號）](https://ibsahq.org/message-data?id=407)
+- [國際佛教僧尼總會公告（字第2012029號）](https://ibsahq.org/message-data?id=396)
+- [國際佛教僧尼總會公告（字第2012028號）](https://ibsahq.org/message-data?id=397)
+- [國際佛教僧尼總會公告 (字第2012027號)](https://ibsahq.org/message-data?id=395)
+- [國際佛教僧尼總會公告 2012年04月15日](https://ibsahq.org/message-data?id=406)
+- [國際佛教僧尼總會公告 2012年02月19日](https://ibsahq.org/message-data?id=404)
+- [國際佛教僧尼總會公告 2012年02月15日](https://ibsahq.org/message-data?id=405)
+- [國際佛教僧尼總會公告 2011年09月15日](https://ibsahq.org/message-data?id=116)
+- [國際佛教僧尼總會公告 2011年08月26日](https://ibsahq.org/message-data?id=398)
+- [國際佛教僧尼總會公告 2011年02月28日](https://ibsahq.org/message-data?id=399)
+- [國際佛教僧尼總會公告 2010年01月06日](https://ibsahq.org/message-data?id=401)
+
+#### 國際佛教僧尼總會說明
+- [國際佛教僧尼總會說明  (第20140101號)](https://ibsahq.org/message-data?id=375)
+- [國際佛教僧尼總會說明：為什麼要“七師十證”](https://ibsahq.org/message-data?id=373)
+- [國際佛教僧尼總會說明 2011年10月26日](https://ibsahq.org/message-data?id=374)
+
+#### 國際佛教僧尼總會聲明
+- [国际佛教僧尼总会严正声明20210208](https://ibsahq.org/message-data?id=392)
+
+#### 國際佛教僧尼總會來稿照轉
+- [我終於見到 「菩提道損減增益法」 殊勝無上](https://ibsahq.org/message-data?id=418)
+- [敬請國際佛教僧尼總會幫我釋正慧轉發這篇文](https://ibsahq.org/message-data?id=366)
+- [【轉發文章】--敬請國際佛教僧尼總會幫我釋正祥等轉發這篇深刻道歉文](https://ibsahq.org/message-data?id=121)
+- [國際佛教僧尼總會轉發佛弟子貢嘎尊巴、仁欽却珍致佛弟子的一封公開信](https://ibsahq.org/message-data?id=376)
+- [國際佛教僧尼總會轉發佛弟子劉玉凱和朱亞勤的來信20120101](https://ibsahq.org/message-data?id=370)
+- [國際佛教僧尼總會來稿照轉: 巴登洛德法王被丟進煉金爐](https://ibsahq.org/message-data?id=379)
+
+#### 國際佛教僧尼總會其它
+- [國際佛教僧尼總會對越梅麗佛教徒的公開回覆](https://ibsahq.org/message-data?id=349)
+- [轉發: 敬請國際佛教僧尼總會幫我釋正慧轉發這篇文: 我終於決定離開第三世多杰羌佛了](https://ibsahq.org/message-data?id=111)
+
 ## 文章 Articles
 
 - [《解脫大手印》—必須要看懂的前導文](https://www.tpcdct.org/article/1542#detail), 祿東贊法王
@@ -465,6 +523,7 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 
 - [第三世多杰羌佛辦公室 The Office of H.H Dorje Chang Buddha III](https://www.hhdcb3office.org/)
 - [世界佛教總部 World Buddhism Association Headquarters](https://www.wbahq.org/)
+- [華藏寺 Hua Zang Si](https://huazangsi.org/)
 - [國際佛教僧尼總會 International Buddhism Sangha Association (IBSA)](https://ibsahq.org/)
 - [佛教聞法中心 Buddhism Dharma Discourse Listening Center (BDDLC)](https://www.bddlc.org)
 - [佛教大願菩提金剛正法中心 Tayuan Puti Chinkang Dhamma Center (TPCDCT)](https://www.tpcdct.org/)
