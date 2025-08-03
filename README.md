@@ -83,6 +83,7 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
   - (四) 因明論略示
   - (五) 成道必修定觀法
   - (六) 戒律論略釋
+- [無上珍寶之福音 第三世多杰羌佛所說法之《藉心經說真諦》之前言、前序】](https://www.sunmoonlight.org/Others/yellowcover%20book.pdf)
 - [《聖僧鐵記》](https://www.tpcdct.org/article/1543#detail) | [True Stories About A Holy Monk](https://xuanfa.net/bibliography/free-books-to-download/true-stories-about-a-holy-monk/)
 - [《菩提道次第略論》](https://www.tpcdct.org/article/1416)
 - [《古佛降世的背後》](https://www.tpcdct.org/article/1441)
