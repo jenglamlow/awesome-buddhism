@@ -1,0 +1,105 @@
+name: Links
+
+# Checks every link in README.md.
+# - Pull requests and pushes to main fail on definite failures (404, DNS
+#   failure, refused connection and so on). Timeouts are reported, not failed.
+# - The weekly run (and a manual run on main) also counts timeouts, and keeps
+#   one open issue labelled "broken-links" up to date. The issue is closed when
+#   a run finds nothing broken.
+# Settings and the timeout policy are documented in lychee.toml.
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - lychee.toml
+      - .lycheeignore
+      - .github/workflows/links.yml
+      - .github/scripts/check-youtube.sh
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - lychee.toml
+      - .lycheeignore
+      - .github/workflows/links.yml
+      - .github/scripts/check-youtube.sh
+  schedule:
+    - cron: "23 3 * * 1" # Mondays 03:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links-${{ github.ref }}
+  # Only a newer commit on the same pull request cancels a run; runs on main
+  # (scheduled ones included) always finish.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    env:
+      # Weekly and manual runs on main report into the issue and count timeouts.
+      REPORT_TO_ISSUE: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.ref_name == github.event.repository.default_branch) }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Check links with lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: >-
+            --config lychee.toml
+            --accept-timeouts=${{ env.REPORT_TO_ISSUE != 'true' }}
+            README.md
+          output: lychee/out.md
+          fail: false
+
+      - name: Check YouTube videos through oEmbed
+        id: youtube
+        run: |
+          mkdir -p lychee
+          code=0
+          bash .github/scripts/check-youtube.sh README.md lychee/youtube.md || code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          cat lychee/youtube.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open, update or close the broken-links issue
+        if: env.REPORT_TO_ISSUE == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          BROKEN: ${{ steps.lychee.outputs.exit_code != '0' || steps.youtube.outputs.exit_code != '0' }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          number=$(gh issue list --state open --label broken-links --json number --jq '.[0].number // empty')
+          if [ "$BROKEN" = true ]; then
+            {
+              echo "The link check found broken or unreachable links in README.md."
+              echo "This issue is updated by each run and closed when a run finds nothing broken."
+              echo "Last run: $RUN_URL"
+              echo
+              cat lychee/out.md
+              echo
+              cat lychee/youtube.md
+            } > lychee/issue.md
+            if [ -n "$number" ]; then
+              gh issue edit "$number" --body-file lychee/issue.md
+            else
+              gh label create broken-links --color d73a4a --description "Reported by the link check workflow" --force
+              gh issue create --title "Broken links report" --label broken-links --body-file lychee/issue.md
+            fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "No broken links found in $RUN_URL."
+          fi
+
+      - name: Fail when links are broken
+        if: steps.lychee.outputs.exit_code != '0' || steps.youtube.outputs.exit_code != '0'
+        run: |
+          echo "::error::Broken links found. See the job summary for the list."
+          exit 1
