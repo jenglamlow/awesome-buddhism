@@ -87,7 +87,7 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [《聖僧鐵記》](https://www.tpcdct.org/article/1543#detail) | [True Stories About A Holy Monk](https://xuanfa.net/bibliography/free-books-to-download/true-stories-about-a-holy-monk/)
 - [《菩提道次第略論》](https://www.tpcdct.org/article/1416)
 - [《古佛降世的背後》](https://www.tpcdct.org/article/1441)
-- [《揭開真相》](http://www.gufowang.org/tag/%E6%8F%AD%E5%BC%80%E7%9C%9F%E7%9B%B8/) - [簡介](https://www.tpcdct.org/article/1439) | [Revealing the Truth](https://www.amazon.com/Revealing-Truth-Zheng-Hui-Shi/dp/0915556499/ref=sr_1_1?ie=UTF8&qid=1458851415&sr=8-1&keywords=revealing+the+truth)
+- [《揭開真相》](https://web.archive.org/web/20240620074659/http://www.gufowang.org/tag/%E6%8F%AD%E5%BC%80%E7%9C%9F%E7%9B%B8/) - [簡介](https://www.tpcdct.org/article/1439) | [Revealing the Truth](https://www.amazon.com/Revealing-Truth-Zheng-Hui-Shi/dp/0915556499/ref=sr_1_1?ie=UTF8&qid=1458851415&sr=8-1&keywords=revealing+the+truth)
 - [聖德高僧們的重要答覆](https://www.wbahq.org/ch/35-answers/) | [Important Replies from Holy Virtuous Ones and Eminent Monastics](https://www.wbahq.org/35-answers/) - 35 道圣德高僧们的重要答覆 35 Important Replies from Holy Virtuous Ones and Eminent Monastics
 - [《藏密真踪》](https://www.tpcdct.org/article/1794)
 - [《悉真論》](https://www.tpcdct.org/article/3431) | [Know the True Doctrines](https://www.amazon.com/Know-Doctrines-Nortbu-Wangpo-Rinpoche/dp/9579785562)
@@ -536,5 +536,5 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [聖蹟寺 Holy Miracles Temple](https://www.youtube.com/@holymiraclestemple2184)
 - [華藏寺 Hua Zang Si](https://www.youtube.com/@HuaZangSi)
 - [佛教大願菩提金剛正法中心](https://www.youtube.com/@tpcdct)
-- [恭誦經論](https://www.youtube.com/@user-qx1qs2tm1g)
-- [搜吉](https://www.youtube.com/@user-ee1cz2hy4c)
+- [恭誦經論](https://www.youtube.com/channel/UCkc6-_0mG3ndhYF-Q7-Vkgg)
+- [搜吉](https://www.youtube.com/channel/UCbIr_Dfdt-AGHAWbUy0kxIg)

@@ -1,0 +1,34 @@
+# lychee link checker settings for README.md.
+# Used by .github/workflows/links.yml and by a local run:
+#   lychee --config lychee.toml README.md
+# URLs that should never be checked go in .lycheeignore.
+
+no_progress = true
+include_mail = false
+
+# Many of the linked sites are slow from GitHub's US runners, so give each
+# request 30 seconds and retry a failure 3 times before calling it broken.
+timeout = 30
+max_retries = 3
+retry_wait_time = 10
+
+# Be gentle with the few hosts that hold most of the links (wbahq.org alone has
+# about 250). Pushing harder made wbahq.org drop connections in local tests.
+max_concurrency = 16
+host_concurrency = 2
+host_request_interval = "250ms"
+
+# Some hosts answer lychee's default user agent with an error page.
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+# 403 and 429 come from bot protection (Amazon, Google Books) or rate limits:
+# the server is there and answered, it just refused a script. They count as OK.
+accept = ["100..=103", "200..=299", "403", "429"]
+
+# Timeouts: a request that gets no answer within `timeout`, after every retry,
+# is a timeout. Pull request and push runs pass --accept-timeouts=true, so a
+# slow or unreachable host is listed in the report but does not fail the run;
+# only definite failures do (404, 410, DNS failure, refused connection, TLS
+# error, 5xx after retries). The weekly scheduled run counts timeouts as broken,
+# so a host that stays unreachable shows up in the "Broken links report" issue.
+accept_timeouts = false
