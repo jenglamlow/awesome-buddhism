@@ -536,5 +536,5 @@ An ever-growing, carefully curated list of high-quality resources related to Bud
 - [聖蹟寺 Holy Miracles Temple](https://www.youtube.com/@holymiraclestemple2184)
 - [華藏寺 Hua Zang Si](https://www.youtube.com/@HuaZangSi)
 - [佛教大願菩提金剛正法中心](https://www.youtube.com/@tpcdct)
-- [恭誦經論](https://www.youtube.com/@user-qx1qs2tm1g)
-- [搜吉](https://www.youtube.com/@user-ee1cz2hy4c)
+- [恭誦經論](https://www.youtube.com/channel/UCkc6-_0mG3ndhYF-Q7-Vkgg)
+- [搜吉](https://www.youtube.com/channel/UCbIr_Dfdt-AGHAWbUy0kxIg)
